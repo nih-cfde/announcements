@@ -8,7 +8,7 @@ that are archived both in GitHub and our Announcements mailing list.
 ## How to contribute
 
 Anyone in the CFDE can contribute by adding comments to [the open
-issue in this repository](https://github.com/nih-cfde/Announcements/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+Announcements).
+issue in this repository](https://github.com/nih-cfde/announcements/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+Announcements).
 The infrastructure team will coordinate the process of assembling the final
 email, which is automatically sent by the Announcements list on merge.
 
@@ -23,7 +23,7 @@ email is sent and closed the day before the email is sent.
 ### Step 1. Opening and closing issues
 
 1.  Open an issue in
-    [nih-cfde/Announcements](https://github.com/nih-cfde/Announcements) for collecting
+    [nih-cfde/announcements](https://github.com/nih-cfde/announcements) for collecting
     links. Title it "Weekly announcements to post <next Monday's date>)".
     Add the `Announcements` label.
 2.  Keep this issue open one week.
@@ -37,8 +37,8 @@ The links deposited in an issue will need to be assembled into a single
 document for distribution.
 
 1.  Create a new file called `YYYY-MM-DD-announcements.md` in [the
-    Announcements repo of
-    nih-cfde](https://github.com/nih-cfde/Announcements)
+    announcements repo of
+    nih-cfde](https://github.com/nih-cfde/announcements)
 2.  Populate the file with content
     1.  Paste all the links from the appropriate issue
     2.  Organize the links into sections (e.g. tools & resources,
