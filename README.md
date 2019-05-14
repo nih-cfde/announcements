@@ -1,19 +1,24 @@
-# Announcements
+# Weekly Announcements
 
-The announcements email will serve as a way for anyone in the group to quickly share announcements
+The Weekly Announcements email will serve as a way for anyone in the group to quickly share announcements
 that are archived both in GitHub and our Announcements mailing list.
 
-## How to contribute
+## How to contribute to Weekly Announcements
 
 Anyone in the CFDE can contribute by adding comments to [the open
 issue in this repository](https://github.com/nih-cfde/announcements/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+Announcements).
 The infrastructure team will coordinate the process of assembling the final
-email, which is automatically sent by the Announcements list on merge.
+email, and distributing it through the Announcements mailing list.
+
+## How to send immediate Announcements
+
+If your announcement is time sensitive, you can submit it to the Announcements mailing list directly by sending
+it to Announcements@CFDE.groups.io
 
 
 ## How to send the weekly mail
 
-The current plan is for 'Announcements' emails to be sent on Monday. An
+The current plan is for 'Announcements' emails to be sent on Mondays. An
 issue for collecting links will be opened 8 days before the Monday links
 email is sent and closed the day before the email is sent.
 
