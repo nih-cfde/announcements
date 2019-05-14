@@ -53,4 +53,5 @@ document for distribution.
     containing the links
 5.  Assign or mention reviewers who can quickly approve the email.
 6.  Incorporate any suggestions then merge the pull request.
-7.  Groups.io will automatically distribute the email upon merge
+7.  Include the entire, formatted, text of the email as your commit message
+8.  Groups.io will automatically distribute the email upon merge
