@@ -2,7 +2,7 @@
 
 ## Rationale
 
-This email will serve as a way for anyone in the group to quickly share announcements
+The announcements email will serve as a way for anyone in the group to quickly share announcements
 that are archived both in GitHub and our Announcements mailing list.
 
 ## How to contribute
