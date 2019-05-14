@@ -1,7 +1,5 @@
 # Announcements
 
-## Rationale
-
 The announcements email will serve as a way for anyone in the group to quickly share announcements
 that are archived both in GitHub and our Announcements mailing list.
 
@@ -11,7 +9,6 @@ Anyone in the CFDE can contribute by adding comments to [the open
 issue in this repository](https://github.com/nih-cfde/announcements/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+Announcements).
 The infrastructure team will coordinate the process of assembling the final
 email, which is automatically sent by the Announcements list on merge.
-
 
 
 ## How to send the weekly mail
@@ -53,6 +50,10 @@ document for distribution.
     containing the links
 5.  Assign or mention reviewers who can quickly approve the email.
 6.  Incorporate any suggestions then merge the pull request.
-7.  Include the entire, formatted, text of the email as your commit message
-8.  Groups.io will automatically get the email upon merge
-9.  Double check that the email looks good (it's moderated) and approve via Groups.io
+
+### Step 3. Send the email
+
+1.  Using the "view" option for nice rendering, copy the text from the
+    `YYYY-MM-DD-announcements.md` file into an email
+2.  Set the subject to "CFDE Weekly Announcements"
+4.  Send the email to <Announcements@CFDE.groups.io>
