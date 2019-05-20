@@ -11,11 +11,11 @@ announcements issue in this repository](https://github.com/nih-cfde/announcement
 
 ## Resources
 
-Need help navigating all your new CFDE toys? See the [Communication Management Help](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md) for a guide to our resources
+- Need help navigating all your new CFDE toys? See the [Communication Management Help](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md) for a guide to our resources
 
-Have a *new* team member? Send them to the [Onboarding form](https://forms.gle/H3ThBxzYYHdauaKJ8)
+- Have a *new* team member? Send them to the [Onboarding form](https://forms.gle/H3ThBxzYYHdauaKJ8)
 
-Have an *exiting* team member? Send them to the [Offboarding form](https://forms.gle/TQMmwvSGaDCFuVXP9)
+- Have an *exiting* team member? Send them to the [Offboarding form](https://forms.gle/TQMmwvSGaDCFuVXP9)
 
 ## Welcome New Members:
 
@@ -37,7 +37,7 @@ Have an *exiting* team member? Send them to the [Offboarding form](https://forms
 
 **White Group:**  Owen White, Anup Mahurkar, Robert Carter
 
-If you see a name you don't recognize added to your group please email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io )
+*If you see a name you don't recognize added to your group please email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io )*
 
 
 Have a great week!
