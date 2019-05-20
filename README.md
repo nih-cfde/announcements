@@ -27,7 +27,19 @@ email is sent and closed the day before the email is sent.
 1.  Open an issue in
     [nih-cfde/announcements](https://github.com/nih-cfde/announcements) for collecting
     links. Title it "Weekly announcements to post <next Monday's date>)".
-    Add the `Announcements` label.
+    Add the `Announcements` label. Give it the following text:
+    ```
+    Add a comment containing your interesting links and announcements here! Let us know under 
+    which heading your post belongs (or add your own):
+
+    Critical Announcements
+    Events
+    Meeting Outcomes
+    Resources
+    Tools
+    New Releases
+    Welcome/Farewell
+    ```
 2.  Keep this issue open one week.
 3.  After 1 week, close the issue and repeat steps 1-3.
 4.  Proceed to the next steps for creating a pull request and sending
