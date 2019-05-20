@@ -39,6 +39,7 @@ announcements issue in this repository](https://github.com/nih-cfde/announcement
 
 *If you see a name you don't recognize added to your group please email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io )*
 
+---
 
 Have a great week!
 
