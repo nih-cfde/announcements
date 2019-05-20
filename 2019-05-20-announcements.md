@@ -21,7 +21,7 @@ Have an *exiting* team member? Send them to the [Offboarding form](https://forms
 
 **Brown Group:**  Amanda Charbonneau, C. Titus Brown
 
-**Foster Group:**  Ian Foster, Ravi Madduri, Kyle Chard, Rick Wagner Mike D'Arcy
+**Foster Group:**  Ian Foster, Ravi Madduri, Kyle Chard, Rick Wagner, Mike D'Arcy
 
 **Kesselman Group:**  Carl Kesselman, Mike D'Arcy, Robert Schuler
 
