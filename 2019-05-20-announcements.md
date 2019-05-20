@@ -4,14 +4,14 @@
 
 - Please be sure you have completed your onboarding. You should have accepted an invitation to both our Slack group and GitHub. If you have problems, see the [Onboarding Help](https://github.com/nih-cfde/organization/blob/master/OnboardingHelp.md)
 
-- The May Reporting deadline is COB on 5/31/19. Your team must report effort per individuals, and only on-boarded team members can be reported on. Be sure all of your current members have completed onboarding by 5/24/19 to ensure they are incorporated into your form.
+- The May Reporting deadline is COB on 5/31/19. Your team must report effort per individuals, and only on-boarded team members can be reported on. Be sure all of your current members have completed onboarding by 5/24/19 to ensure they are incorporated into your form
 
 - You can contribute to next weeks announcements by commenting on [the open
 announcements issue in this repository](https://github.com/nih-cfde/announcements/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+Announcements)
 
 ## Resources
 
-Need help navigating all your new CFDE toys? See the [Communication Management Help](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md) for a guide to our resources.
+Need help navigating all your new CFDE toys? See the [Communication Management Help](https://github.com/nih-cfde/organization/blob/master/CommunicationManagementHelp.md) for a guide to our resources
 
 Have a *new* team member? Send them to the [Onboarding form](https://forms.gle/H3ThBxzYYHdauaKJ8)
 
@@ -42,4 +42,6 @@ If you see a name you don't recognize added to your group please email the [Help
 
 Have a great week!
 
-- CFDE Infrastructure Team
+- Amanda Charbonneau
+
+for the CFDE Infrastructure Team
