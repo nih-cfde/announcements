@@ -42,6 +42,6 @@ If you see a name you don't recognize added to your group please email the [Help
 
 Have a great week!
 
-Amanda Charbonneau
+-Amanda Charbonneau
 
 for the CFDE Infrastructure Team
