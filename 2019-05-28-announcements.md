@@ -4,7 +4,7 @@
 
 - Please be sure you have completed your onboarding. You should have accepted an invitation to both our Slack group and GitHub. If you have problems, see the [Onboarding Help](https://github.com/nih-cfde/organization/blob/master/OnboardingHelp.md)
 
-- The May Reporting deadline is COB on 5/31/19. Your team must report effort per individuals, and only on-boarded team members can be reported on. Be sure all of your current members have completed onboarding by 5/24/19 to ensure they are incorporated into your form
+- The May Reporting deadline is COB on 5/31/19. Your team must report effort per individuals, and only on-boarded team members can be reported on. 
 
 - You can contribute to next weeks announcements by commenting on [the open
 announcements issue in this repository](https://github.com/nih-cfde/announcements/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+Announcements)
