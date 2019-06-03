@@ -1,4 +1,5 @@
-# Welcome to the CFDE!
+# CFDE Weekly Announcements
+
 
 ## Critical Announcements
 
