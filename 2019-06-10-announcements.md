@@ -3,7 +3,7 @@
 
 ## Reports
 
-The CFDE Engagement team visited GTEx last week and had a great visit. You can view the preliminary findings [in this powerpoint](https://docs.google.com/presentation/d/1fjvmTUUHva11hoGupEljBYUHIqgrfxDa2LLIL_fB0as/edit?usp=sharing)
+The CFDE Engagement team visited GTEx last week and had a great visit. You can view the preliminary findings [in this powerpoint.](https://docs.google.com/presentation/d/1fjvmTUUHva11hoGupEljBYUHIqgrfxDa2LLIL_fB0as/edit?usp=sharing)
 A more in-depth report will be available in the coming weeks
 
 ## Resources
