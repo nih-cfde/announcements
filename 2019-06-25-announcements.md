@@ -2,7 +2,7 @@
 
 ## Events
 
-The CFDE Engagement team is visiting Kid First today! Watch for outcomes and updates from that meeting in the coming weeks
+The CFDE Engagement team is visiting Kids First today! Watch for outcomes and updates from that meeting in the coming weeks
 
 ## Welcome New Members:
 
