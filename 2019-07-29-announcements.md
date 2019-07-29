@@ -1,5 +1,9 @@
 # CFDE Weekly Announcements
 
+## News from the NIH
+
+Vivien Bonazzi, our Program Officer and friend has announced that she is leaving the NIH to take on a new role as a Partner/Managing Director at Deloitte as their Chief Data Scientist for Biomedicine. Her last day is August 9th. We wish her great success in her new adventure.
+
 ## New Team
 
 RTI has officially joined the CFDE! 
