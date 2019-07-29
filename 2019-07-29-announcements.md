@@ -21,7 +21,9 @@ This week's Wednesday PI meeting has been cancelled.
 We *won't* have a weekly announcements next week as I'm on vacation. Look for *two* weeks worth of info on August 12th.
 
 ## Welcome New Members:
+
 **Ma’ayan Group and LINCS:** Shirley Xu
+
 **RTI:** Marcie Rathbun, Nathan Gaddis, Katie Loyd, Christopher Ball, Stephen Edwards, Alex Waldrp
 
 *If you see a name you don't recognize added to your group please email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io )*
