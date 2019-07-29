@@ -14,7 +14,7 @@ The July Report is being submitted this week! Look for the final copy in the nex
 
 ## Meetings
 
-This weeks Wednesday PI meeting has been cancelled.
+This week's Wednesday PI meeting has been cancelled.
 
 ## Special Announcement
 
