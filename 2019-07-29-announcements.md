@@ -12,9 +12,11 @@ RTI has officially joined the CFDE!
 
 The July Report is being submitted this week! Look for the final copy in the next announcements.
 
-## Meetings
+## Meeting News
 
 This week's Wednesday PI meeting has been cancelled.
+
+The C2M2 weekly meeting has been renamed to 'CFDE Weekly Technical Meeting'. All are welcome to participate. The meeting notice is on the [Groups.io General calendar](https://cfde.groups.io/g/General/viewevent?repeatid=16158&eventid=515525&calstart=2019-07-30). Today at noon (Eastern) we will hear more about Deriva.
 
 ## Special Announcement
 
