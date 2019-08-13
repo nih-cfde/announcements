@@ -10,6 +10,9 @@ A sharable PDF, with all appendices included as a single doc, is downloadable [h
 
 Owen and Titus visited the NIH on August 9th to present our report findings to the Common Fund. Both the report and presentation were very well received. You can view the presentation [here](https://osf.io/dvc9q/).
 
+# Reminders
+
+[July MPQs](https://forms.gle/X34gApZGSb8qQZ368) are due by the end of this week, and financial reports were due to Bob on the 6th. Please make sure your team has both submitted asap.
 
 ## Welcome New Members:
 
