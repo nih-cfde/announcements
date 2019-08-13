@@ -12,7 +12,7 @@ Owen and Titus visited the NIH on August 9th to present our report findings to t
 
 # Reminders
 
-[July MPQs](https://forms.gle/X34gApZGSb8qQZ368) are due by the end of this week, and financial reports were due to Bob on the 6th. Please make sure your team has both submitted asap.
+[July MPQs](https://forms.gle/X34gApZGSb8qQZ368) are due by the end of this week, and financial reports were due to Bob Carter on the 6th. Please make sure your team has both submitted asap.
 
 ## Welcome New Members:
 
