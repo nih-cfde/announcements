@@ -6,6 +6,8 @@ The July Report was submitted to the NIH on July 31st, and onboarded CFDE member
 
 A sharable PDF, with all appendices included as a single doc, is downloadable [here](https://drive.google.com/a/ucdavis.edu/file/d/1acqvkUkQEj2Hxyim4CSBNYY3ViwenIaf/view?usp=sharing)
 
+Or, you can share the public, published version [doi: 10.6084/m9.figshare.9588374](https://figshare.com/articles/2019-July_CFDE_AssessmentReport_pdf/9588374)
+
 # News from the NIH
 
 Owen and Titus visited the NIH on August 9th to present our report findings to the Common Fund. Both the report and presentation were very well received. You can view the presentation [here](https://osf.io/dvc9q/).
