@@ -8,7 +8,7 @@ A sharable PDF, with all appendices included as a single doc, is downloadable [h
 
 # News from the NIH
 
-Owen and Titus visited the NIH on August 9th to present our report findings to the Common Fund. Both the report and presentation were very well recieved. You can view the presentation [here](https://osf.io/dvc9q/).
+Owen and Titus visited the NIH on August 9th to present our report findings to the Common Fund. Both the report and presentation were very well received. You can view the presentation [here](https://osf.io/dvc9q/).
 
 
 ## Welcome New Members:
