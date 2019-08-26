@@ -1,5 +1,5 @@
 
-# CFDE Weekly Announcements
+# CFDE Bi-weekly Announcements
 
 ## Bi-weekly announcements
 
