@@ -3,7 +3,7 @@
 
 ## Bi-weekly announcements
 
-I'm moving the announcements to once every other week unless they start to fill up again. So look for them again in two weeks.
+Announcements will now be once every other week. 
 
 ## Site Visits
 
