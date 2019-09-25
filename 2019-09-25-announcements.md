@@ -4,7 +4,7 @@
 
 We have a website wireframe for the upcoming public facing CFDE site. It is currently loaded with some demo content from the old DCPPC site. You can download the mockup [here](https://github.com/nih-cfde/public-website-mockups). Please add comments, questions and suggestions for the site as [issues](https://github.com/nih-cfde/public-website-mockups/issues). We will be working to populate the site with CFDE content in the coming months. If you have content you would like added, please follow the instructions at the [website content repo](https://github.com/nih-cfde/public-website-content). 
 
-The Technical team will be demoing portal capability to the NIH on Friday at noon. Watch the next announcements for outcomes.
+The Technical team will be demoing portal capability to the NIH this Friday. 
 
 ## From the Web
 
