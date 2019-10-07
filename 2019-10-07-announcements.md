@@ -2,9 +2,9 @@
 
 ## Updates
 
-- The engagement team is visiting MoTrPAC this week.
+- The Engagement team is visiting MoTrPAC this week.
 
-- The Technical Team demo went incredibly well. You can see 
+- The Technical Team demo went incredibly well. You can see their [demo and slides here](https://drive.google.com/drive/u/0/folders/1AGjFe2y75XChEc4L1Nrr5RkUDlwxlOqG)
 
 ## Repeats from last time
 
@@ -14,13 +14,7 @@
 
 ## Reminders
 
-[August MPQs](https://forms.gle/YE85EYqRRDgRDkp27) and financial reports are overdue. Please make sure your team has both submitted asap.
-
-## Welcome New Members:
-
-**Foster Group:** Rudyard Richter   
-
-*If you see a name you don't recognize added to your group please email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io )*
+[September MPQs](https://forms.gle/YE85EYqRRDgRDkp27) and financial reports are due. Please make sure your team has both submitted asap.
 
 ## Contributing
 
