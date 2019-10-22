@@ -9,6 +9,10 @@
 
 [September MPQs](https://forms.gle/YE85EYqRRDgRDkp27) and financial reports are now **overdue**. Please make sure your team has both submitted asap.
 
+## Welcome New Members:
+
+**Foster Group:** Nickolaus Saint
+
 ## Contributing
 
 You can contribute to next week's announcements by commenting on [the open
