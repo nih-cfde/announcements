@@ -1,9 +1,9 @@
-# Weekly Announcements
+# Announcements
 
-The Weekly Announcements email will serve as a way for anyone in the group to quickly share announcements
+The Announcements email will serve as a way for anyone in the group to quickly share announcements
 that are archived both in GitHub and our Announcements mailing list.
 
-## How to contribute to Weekly Announcements
+## How to contribute to Announcements
 
 Anyone in the CFDE can contribute by adding comments to [the open
 announcements issue in this repository](https://github.com/nih-cfde/announcements/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+Announcements).
@@ -19,14 +19,14 @@ it to Announcements@CFDE.groups.io
 ## How to send the weekly mail
 
 The current plan is for 'Announcements' emails to be sent on Mondays. An
-issue for collecting links will be opened 8 days before the Monday links
+issue for collecting links will be opened 15 days before the Monday links
 email is sent and closed the day before the email is sent.
 
 ### Step 1. Opening and closing issues
 
 1.  Open an issue in
     [nih-cfde/announcements](https://github.com/nih-cfde/announcements) for collecting
-    links. Title it "Weekly announcements to post <next Monday's date>)".
+    links. Title it "Announcements to post <two weeks Monday's date>)".
     Add the `Announcements` label. Give it the following text:
     ```
     Add a comment containing your interesting links and announcements here! Let us know under 
@@ -59,7 +59,7 @@ document for distribution.
         events)
     3.  Add a sentence for context
     4.  Add a concluding sentence pointing the reader to an issue for
-        collecting next week's links
+        collecting the next set of links
     5.  Add a salutation and signature
 3.  Check the "Create a new branch for this commit and start a pull
     request" button and click "Propose new file".
@@ -72,5 +72,5 @@ document for distribution.
 
 1.  Using the "view" option for nice rendering, copy the text from the
     `YYYY-MM-DD-announcements.md` file into an email
-2.  Set the subject to "CFDE Weekly Announcements"
+2.  Set the subject to "CFDE Announcements"
 4.  Send the email to <Announcements@CFDE.groups.io>
