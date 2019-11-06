@@ -20,7 +20,7 @@ it to Announcements@CFDE.groups.io
 
 The current plan is for 'Announcements' emails to be sent on Mondays. An
 issue for collecting links will be opened 15 days before the Monday links
-email is sent and closed the day before the email is sent.
+email is sent and closed the day the email is sent.
 
 ### Step 1. Opening and closing issues
 
@@ -41,7 +41,7 @@ email is sent and closed the day before the email is sent.
     Welcome/Farewell
     ```
 2.  Keep this issue open one week.
-3.  After 1 week, close the issue and repeat steps 1-3.
+3.  After 2 weeks, close the issue and repeat steps 1-3.
 4.  Proceed to the next steps for creating a pull request and sending
     and email.
 
