@@ -2,13 +2,13 @@
 
 ## Updates
 
-Cia Romano's presented on interface development at the last PI meeting. You can watch the video here: https://drive.google.com/drive/u/0/folders/1_p5nPOObGR7QgDyydNXkUUYW4IgLtn9a
+Cia Romano's presented on interface development at the last PI meeting. [You can watch the video here](https://drive.google.com/drive/u/0/folders/1_p5nPOObGR7QgDyydNXkUUYW4IgLtn9a)
 
 ## Reminders
 
 [November MPQs](https://forms.gle/4tQPQgcMCTzqBUj28) and financial reports are now **overdue**. Please make sure your team has both submitted asap.
 
-## Goodbye Past Members:
+## Goodbye Past Members
 
 **LINCS, Ma’ayan**: Shirley Xu
 
