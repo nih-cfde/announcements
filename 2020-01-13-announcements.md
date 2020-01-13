@@ -4,16 +4,12 @@ We had a short hiatus during the holidays, but we're back!
 
 ## Updates
 
+- The new public website is up and running! Visit https://nih-cfde.org/ 
 
-### Public Website
+     - If you'd like to contribute content to the website, you can find instructions here: https://github.com/nih-cfde/public-website-content/blob/master/README.md
 
-The new public website is up and running! Visit https://nih-cfde.org/ 
 
-If you'd like to contribute content to the website, you can find instructions here: https://github.com/nih-cfde/public-website-content/blob/master/README.md
-
-### December Report
-
-The final report for 2020 is now available here: https://figshare.com/articles/2019-December_CFDE_AssessmentReport_pdf/11592936
+- The final report for 2020 is now available here: https://figshare.com/articles/2019-December_CFDE_AssessmentReport_pdf/11592936
 It includes the reports for our last three site visits, as well as a overview of all our 2019 findings and plan for 2020. Please share it with anyone you think would be interested. 
 
 ## Reminders
@@ -32,7 +28,6 @@ Have a great week!
 -Amanda Charbonneau
 
 for the CFDE Infrastructure Team
-
 
 
 
