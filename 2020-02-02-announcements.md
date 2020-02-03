@@ -28,8 +28,15 @@ This week, the NIH announced the [DATA Scholar Program](https://datascience.nih.
 
 January financial reports are now **due** for OT awardees. Please make sure your team has submits your information to Bob Carter ASAP.
 
-## Welcome
+## Welcome New Members:
 
+**White Group:** James Munro
+
+**4D Nucleome, HuBMAP:** Nils Gehlenborg
+
+**HuBMAP:** Margaret Vella
+
+**MoTrPAC:** Karen Dalton
 
 
 ## Contributing
