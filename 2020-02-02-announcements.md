@@ -14,7 +14,7 @@ The funding announcement came just in time to be announced at our CFDE Kickoff/D
 You'll start to see a lot of new faces over the coming weeks. As of the Pre-Proposer Meeting, we are officially onboarding DCC staff into our work spaces. Be sure to say hello!
 
 ### Other Funding Opportunities
-This week, the NIH announced the [DATA Scholar Program](https://datascience.nih.gov/data-scholars), which offers 1-2 years of funding for individuals who are experienced in data and computer science to work on a number of different trans-NIH inititives. [One of the awards is specifically geared towards working with the CFDE](https://datascience.nih.gov/data-scholars-projects/innovative-solutions-for-data-harmonization-mobile-analytics-and-end-user-support). These positions are directly hired to the NIH, and are open to anyone with relevant experience. Please encourage your contacts to apply. 
+This week, the NIH announced the [DATA Scholar Program](https://datascience.nih.gov/data-scholars), which offers 1-2 years of funding for individuals who are experienced in data and computer science to work on a number of different trans-NIH initiatives. [One of the awards is specifically geared towards working with the CFDE](https://datascience.nih.gov/data-scholars-projects/innovative-solutions-for-data-harmonization-mobile-analytics-and-end-user-support). These positions are directly hired to the NIH, and are open to anyone with relevant experience. Please encourage your contacts to apply. 
 
 ## ReRuns
 
