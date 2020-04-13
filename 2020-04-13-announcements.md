@@ -5,6 +5,8 @@ Please remember that you can post news to these mailings by going to the Contrib
 
 ## Events
 
+Titus Brown will be giving a talk about the CFDE efforts on April 22, 2020, 11 am PDT. [Click here for more info](https://twitter.com/WCMC_UCDavis/status/1248003580528717824)
+
 The cross-pollination meeting that was scheduled for May 13-14, 2020 has been cancelled.
 
 ## Reminders
