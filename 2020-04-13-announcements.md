@@ -1,7 +1,7 @@
 # CFDE Announcements
 
 I hope you're all doing well, or as well as possible given the pandemic. I'm running announcements as the issue fills, so they will be on somewhat sporadic Mondays for the time being. 
-Please remember that you can post news to these mailings by going to the Contributing link.
+Please remember that you can post news to these mailings by going to the [Contributing link](https://github.com/nih-cfde/announcements/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+Announcements).
 
 ## Events
 
