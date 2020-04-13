@@ -16,6 +16,8 @@ March financial reports are now **overdue** for UMD sub-awardees. Please make su
 ## Welcome New Members:
 
 **Brown Group:** Abhijna A Parigi
+**RTI Group:** Carol Place, John Bennett Cheadle
+**White Group:** Jain Aluvathingal
 
 ## Cool Science News
 
