@@ -18,7 +18,8 @@ Here are some updates
 Sourmash v3.3.0 has been released now it can directly store and search SBT/tree databases in ZIP files!
 https://twitter.com/ctitusbrown/status/1257418140729868291
 
-Format: ![Image of runtime](https://pbs.twimg.com/media/EXNAPPzU0AAoBdd.jpg)
+Format: ![Image of runtime]
+<img src="https://pbs.twimg.com/media/EXNAPPzU0AAoBdd.jpg" alt="Your image title" width="500"/>
 
 *If you see a name you don't recognize added to your group please email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io )*
 
