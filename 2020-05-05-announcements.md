@@ -1,8 +1,12 @@
 # CFDE Annoucements
+
 Good Morning Everyone! 
 I hope you are safe and well during the Shelter-in-Place.
 Here are some updates
+
+
 ## Upcoming Events
+
 - **Thursday, May 7th, 1pm**  Titus Brown will be giving a talk on research his lab is doing on Inflammatory Bowel Disease (IBD) using the Human Microbiome Project (HMP) data @ Joint Genome Institute (JGI)
   -  https://lbnl.zoom.us/j/97806984914 
   -  Password: titus_jgi
@@ -28,5 +32,7 @@ Here are some updates
 ---
 
 Have a great week!
+
 Jose
+
 from the CFDE Infrastructure Team
