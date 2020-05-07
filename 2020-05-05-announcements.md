@@ -18,6 +18,7 @@ Here are some updates
 
 
 ## Welcome New Members:
+
 **Brown Group:** Jose Sanchez, Marisa Lim
 
 **Kesselman Group:** Joshua Chudy
