@@ -40,7 +40,7 @@ email is sent and closed the day the email is sent.
     New Releases
     Welcome/Farewell
     ```
-2.  Keep this issue open one week.
+2.  Keep this issue open 2 weeks.
 3.  After 2 weeks, close the issue and repeat steps 1-3.
 4.  Proceed to the next steps for creating a pull request and sending
     and email.
