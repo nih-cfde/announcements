@@ -40,10 +40,10 @@ email is sent and closed the day the email is sent.
     New Releases
     Welcome/Farewell
     ```
-2.  Keep this issue open one week.
+2.  Keep this issue open 2 weeks.
 3.  After 2 weeks, close the issue and repeat steps 1-3.
 4.  Proceed to the next steps for creating a pull request and sending
-    and email.
+    an email.
 
 ### Step 2. Create pull request with links assembled into email format
 
@@ -71,6 +71,6 @@ document for distribution.
 ### Step 3. Send the email
 
 1.  Using the "view" option for nice rendering, copy the text from the
-    `YYYY-MM-DD-announcements.md` file into an email
+    `YYYY-MM-DD-announcements.md` file into a [new email on groups.io](https://cfde.groups.io/g/Announcements/post)
 2.  Set the subject to "CFDE Announcements"
 4.  Send the email to <Announcements@CFDE.groups.io>
