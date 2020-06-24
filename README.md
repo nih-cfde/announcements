@@ -74,3 +74,8 @@ document for distribution.
     `YYYY-MM-DD-announcements.md` file into a [new email on groups.io](https://cfde.groups.io/g/Announcements/post)
 2.  Set the subject to "CFDE Announcements MM-DD-YYYY"
 4.  Send the email to <Announcements@CFDE.groups.io>
+
+## Admin Style Notes
+
+Announcements go out to CFDE members and associated DCCs. Language in the announcements should reflect the diversity of our coalition, so acronyms should generally be described (terms such as PO, DCC, and A2CPS are not universal). List items by order of importance rather than chronology or based on the listed headers. Always keep in mind that your audience may not be familiar with the subject matter, and take time to provide context when appropriate. 
+
