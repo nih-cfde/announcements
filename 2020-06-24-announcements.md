@@ -6,7 +6,7 @@ Hello Everyone! We hope you all are doing well. We have some exciting news and d
 
 The [CFDE Portal](https://app.nih-cfde.org/) was demonstrated to the NIH and is now viewable. This is not a public release, so **_please don't share_** the site outside of the consortium. Advertising to the public will happen once the participating Common Fund Programs have had a chance review their data. We welcome you to explore the site and [provide feedback](https://github.com/nih-cfde/cfde-deriva/issues/53) to our development team as we work to improve the interface and functionality of the site before it's public debut.
 
-With the demonstration of the portal the _NIH has released CFDE-Coordination Center funding for the remainder of this year_. 
+With the demonstration of the portal the _NIH has approved CFDE-Coordination Center funding for the remainder of this year_. 
 
 
 ## Updates
