@@ -72,5 +72,5 @@ document for distribution.
 
 1.  Using the "view" option for nice rendering, copy the text from the
     `YYYY-MM-DD-announcements.md` file into a [new email on groups.io](https://cfde.groups.io/g/Announcements/post)
-2.  Set the subject to "CFDE Announcements"
+2.  Set the subject to "CFDE Announcements MM-DD-YYYY"
 4.  Send the email to <Announcements@CFDE.groups.io>
