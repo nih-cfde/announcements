@@ -20,9 +20,9 @@ Join us this Tuesday Oct 6 at 11am PST, 2pm EST to see lightning talks by the ne
 
 **GTEx:** Katherine H Huang, Lan Nguyen, François Aguet, Jared Nedzel, Duyen Nguyen, Kristin Ardlie
 
-**HuBMAP:** Robin Scibek, Katy Börner
+**HuBMAP:** Robin Scibek, Katy Börner, Philip Blood
 
-**IDG:** Jeremy J Yang, Eryk Kropiwnicki, Jessica Binder, Allison Bailey, Steve Mathias
+**IDG:** Jeremy J Yang, Eryk Kropiwnicki, Jessica Binder, Allison Bailey, Steve Mathias, Cristian Bologa
 
 **Interface Guru:** Corinna Bechko, Cheyanne Emerson
 
