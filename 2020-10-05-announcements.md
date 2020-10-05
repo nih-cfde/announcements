@@ -34,13 +34,13 @@ Join us this Tuesday Oct 6 at 11am PST, 2pm EST to see lightning talks by the ne
 
 **LINCS:** Zhuorui (Sherry) Xie, Maxim Kuleshov, Kathleen Jagodnik
 
-**SPARC** Jyl K Boline, Jeffrey Grethe, Maryann E. Martone. Peter John Hunter, Bernard de Bono
+**SPARC:** Jyl K Boline, Jeffrey Grethe, Maryann E. Martone. Peter John Hunter, Bernard de Bono
 
 *If you see a name you don't recognize added to your group please email the [HelpDesk](mailto:autohelp+int+851+6545985337373134556@CFDE.groups.io )*
 
 ## Farewell
 
-**NIH**: Michael Ojiere, Jennifer Yttri, Marcie Rathbun
+**NIH:** Michael Ojiere, Jennifer Yttri, Marcie Rathbun
 
 
 ## Contributing
