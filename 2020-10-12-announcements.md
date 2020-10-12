@@ -12,7 +12,7 @@ The next meeting in our ongoing Cross-Pollination Series is **Tuesday, October 1
 
 **HuBMAP**: Shawn T Brown
 
-**Metabolomics**: Mano Ram Maurya, Srinivasan Ramachandran
+**Metabolomics**: Mano Ram Maurya, Srinivasan Ramachandran, Sonal Choudhary, Shankar Subramaniam, Eoin Fahy
 
 **Kids First**: Michele Mattioni, Maia Nguyen, David Higgins
 
