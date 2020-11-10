@@ -6,7 +6,9 @@ This week we have ongoing Cross-Pollination events as well some recent presentat
 
 ## Cross-Pollination Events
 
-**The CFDE Portal Demo and Roadmap**, the next meeting in our ongoing Cross-Pollination Series is Tuesday, November 10 at 11am (PST) / 2pm (EST). Everyone is welcome! Please visit our [Cross-Pollination Events Schedule](https://docs.google.com/spreadsheets/d/1hQAeOLkivUZZnwZ_KxfGw3neezMaWbrPk9nnFiKfQGA/edit#gid=1089477257) for more details for this and other upcoming events and take a moment to join our [mailing list](https://crosspollinationevents.groups.io/g/main) where you will have access to calendar invites, updates, and reminders. Please RSVP!
+**CFDE Connections and Data Sharing**, the next meeting in our ongoing Cross-Pollination Series is Tuesday, November 17 at 11am (PST) / 2pm (EST). Everyone is welcome! Please visit our [Cross-Pollination Events Schedule](https://docs.google.com/spreadsheets/d/1hQAeOLkivUZZnwZ_KxfGw3neezMaWbrPk9nnFiKfQGA/edit#gid=1089477257) for more details for this and other upcoming events and take a moment to join our [mailing list](https://crosspollinationevents.groups.io/g/main) where you will have access to calendar invites, updates, and reminders. Please RSVP!
+
+Starting in December, we're moving to monthly Cross Pollination meetings. We'll have an event the first Tuesday of every month, at 11am (PST) / 2pm (EST). Please hold the time in your calendar, and stay tuned for more details.
 
 On October 27 we held our Harmonization Workshop. You can [view the recording](https://drive.google.com/file/d/1x5geSLbAVGDEV7-4HNd40ShHg_zkaH91/view) or checkout the [transcript](https://drive.google.com/file/d/1xSp27dEotZiQqaADuvdYQPpdigVlqlHa/view?usp=sharing) in our Google drive archive.
 
@@ -19,6 +21,7 @@ Rick Wagner created a video for JupyterCon on Jupyter Security. Check it out if 
 Titus Brown gave a presentation on the CFDE to an interagency working group (NIH, NSF, USDA, NIST, FDA, etc.) on Biological Data Sharing by invitation of USDA program officer, Lakshmi Matukumalli. You can check out the slides here: [Common Fund Data Ecosystem - An Overview](https://osf.io/uwdvt/).
 
 Finally, our #NIHLINCS program is hosting a virtual symposium in November! Topics include computational tools for #LINCSDATA, methodologies for rigorous reproducible #BiologicalResearch, and more. Registration is required, so save the date & register today: http://bit.ly/3mBiful
+
 
 ## Contributing
 
