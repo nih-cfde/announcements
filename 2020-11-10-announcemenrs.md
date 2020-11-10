@@ -16,9 +16,9 @@ Recordings and transcripts of all past meetings are available at [Cross-Pollinat
 
 Rick Wagner created a video for JupyterCon on Jupyter Security. Check it out if you are interested in Jupyter Security and also to take a look at what a modern campus recording studio can do: [The Streetwise Guide to JupyterHub Security](https://www.youtube.com/watch?v=CLnL5Vyh3Mc&amp;t=4s)
 
-Titus Brown gave a presentation on the CFDE to an interagency working group (NIH, NSF, USDA, NIST, FDA, etc.) on Biological Data Sharing by invitation of USDA program officer, Lakshmi Matukumalli. You can check out the slides here: [Common Fund Data Ecosystem - An Overview](https://osf.io/uwdvt/). Comments welcome!
+Titus Brown gave a presentation on the CFDE to an interagency working group (NIH, NSF, USDA, NIST, FDA, etc.) on Biological Data Sharing by invitation of USDA program officer, Lakshmi Matukumalli. You can check out the slides here: [Common Fund Data Ecosystem - An Overview](https://osf.io/uwdvt/).
 
-Finally, oiur #NIHLINCS program is hosting a virtual symposium in November! Topics include computational tools for #LINCSDATA, methodologies for rigorous reproducible #BiologicalResearch, and more. Registration is required, so save the date & register today: http://bit.ly/3mBiful
+Finally, our #NIHLINCS program is hosting a virtual symposium in November! Topics include computational tools for #LINCSDATA, methodologies for rigorous reproducible #BiologicalResearch, and more. Registration is required, so save the date & register today: http://bit.ly/3mBiful
 
 ## Contributing
 
