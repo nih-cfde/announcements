@@ -25,6 +25,7 @@ As we head into the holiday season, we realize that many of us will be taking ti
 ## Welcome
 
 **IDG**: Michael Garcia
+
 **SPARC**: Tom Gillespie
 
 ## Contributing
