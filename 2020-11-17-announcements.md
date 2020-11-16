@@ -2,7 +2,7 @@
 
 Hello CFDE!
 
-This week we have ongoing Cross-Pollination events as well some recent presentations by CFDE members to share.
+This week we have ongoing Cross-Pollination events and an invitation to participate in a Holiday Calendar to help in our Cross-Pollination efforts.
 
 ## Cross-Pollination Events
 
