@@ -16,7 +16,9 @@ Recordings and transcripts of all past meetings are available at [Cross-Pollinat
 
 **HuBMAP**: Kevin Hanshaw, Jonathan C. Silverstein, Alex Ropelewski
 
-**Kids First**: Deanne Taylor
+**Kids First**: Deanne Taylor, Adam Resnick
+
+
 
 ## Contributing
 
