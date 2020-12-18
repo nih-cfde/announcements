@@ -10,6 +10,8 @@ announcements issue in this repository](https://github.com/nih-cfde/announcement
 The infrastructure team will coordinate the process of assembling the final
 email, and distributing it through the Announcements mailing list.
 
+However, these announcements will go to people who have onboarded with the CFDE. If you would like to send out some information to Data Centers not onboarded with the CFDE, you can request to add these annoucements to our main@CrossPollinationEvents.groups.io.
+
 ## How to send immediate Announcements
 
 If your announcement is time sensitive, you can submit it to the Announcements mailing list directly by sending
