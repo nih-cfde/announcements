@@ -4,7 +4,7 @@ Happy Holidays, fellow CFDE members!
 
 ## Cross-Pollination Events
 
-Our next meeting will take place on January 5, 2021 (11am EST / 12pm PST).  Our current agenda includes presentations from Kids First and an Ontology Working Group session presented by the CFDE-CC. Our upcoming meetings are listed on the [CFDE Cross-Pollination Schedule](https://docs.google.com/spreadsheets/d/1hQAeOLkivUZZnwZ_KxfGw3neezMaWbrPk9nnFiKfQGA/edit?usp=sharing). Contact us at support@cfde.atlassian.net if you would like to present.  [**RSVP here**](https://crosspollinationevents.groups.io/g/main/viewevent?repeatid=33633&eventid=1005435&calstart=2021-01-05) to attend the January meeting.
+Our next meeting will take place on January 5, 2021 (11am PST / 2pm EST).  Our current agenda includes presentations from Kids First and an Ontology Working Group session presented by the CFDE-CC. Our upcoming meetings are listed on the [CFDE Cross-Pollination Schedule](https://docs.google.com/spreadsheets/d/1hQAeOLkivUZZnwZ_KxfGw3neezMaWbrPk9nnFiKfQGA/edit?usp=sharing). Contact us at support@cfde.atlassian.net if you would like to present.  [**RSVP here**](https://crosspollinationevents.groups.io/g/main/viewevent?repeatid=33633&eventid=1005435&calstart=2021-01-05) to attend the January meeting.
 
 You can join the Cross-Pollination Group by visiting [https://crosspollinationevents.groups.io/g/main](https://crosspollinationevents.groups.io/g/main) and clicking on the `Apply for Membership` button. Members have access to our event calendar as well as updates and reminders about upcoming events. Recordings and transcripts of all past meetings are available at [Cross-Pollination Recordings](https://drive.google.com/drive/folders/1_gGAUBzA5uigfwnK2S3plC309Ddt9HYT?usp=sharing).
 
