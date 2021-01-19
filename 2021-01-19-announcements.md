@@ -1,6 +1,7 @@
 # CFDE Announcements
 
-Hello Everyone! This week have Cross-Pollination updates and some new training efforts to share.  
+Hello Everyone! This week we have Cross-Pollination updates, new training efforts, and two new working groups to share. 
+
 ## Cross-Pollination Events
 
 The CFDE Cross-Pollination Series continues next month on **Tuesday, February 2, at 11am(PST)/2pm(EST)**. Cross-Pollination events take place on the first Tuesday of every month. LINCS, SPARC, and the NIH are our scheduled presenters. Please check out the Cross-Pollination Schedule and let us know if you would like to present! When requesting a slot please include your preferred date and the length of your talk. Currently we have speakers scheduled out through June, but you can book a slot from July onwards.
