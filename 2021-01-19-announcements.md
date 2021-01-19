@@ -23,6 +23,7 @@ The Ontology Working Group is organizing in their own  CFDE Slack channel: https
 ## Welcome
 
 **Kids First**: Eric Wenger, Sai Lakshmi Subramaniam
+
 **HuBMAP**: Matthew Martindale
 
 ## Contributing
@@ -32,4 +33,5 @@ You can contribute to the next announcements by commenting on [the open announce
 Thank you all for your efforts and have a great week!
 
 Jeremy Walter
+
 CFDE Coordination Team
