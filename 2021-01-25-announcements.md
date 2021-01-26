@@ -1,6 +1,6 @@
 # CFDE Announcements
 
-Greetings CFDE Members! To finish an eventful January we share Cross-Pollination and Training updates and report on the kick-off meeting of our new CFDE Anatomy Working Group (cAWG).
+Greetings CFDE Members! To finish an eventful January we share Cross-Pollination and Training updates and report on the kick-off meetings for both our CFDE Anatomy Working Group (cAWG) and our new CFDE Ontology Working Group. 
 
 
 ## Events
