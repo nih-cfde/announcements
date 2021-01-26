@@ -7,7 +7,7 @@ Greetings CFDE Members! To finish an eventful January we share Cross-Pollination
 
 ### Cross-Pollination Events
 
-The CFDE Cross-Pollination Series continues next week on **Tuesday, February 2, at 11am(PST)/2pm(EST)** with the NIH and LINCS presenting. Cross-Pollination events take place on the first Tuesday of every month. Please check out the [Cross-Pollination Schedule](https://docs.google.com/spreadsheets/d/1hQAeOLkivUZZnwZ_KxfGw3neezMaWbrPk9nnFiKfQGA/edit?usp=sharing) and let us know if you would like to present! When requesting a slot please include your preferred date and the length of your talk. Currently we have speakers scheduled out through June, but you can book a slot from July onwards.
+The CFDE Cross-Pollination Series continues next week on **Tuesday, February 2, at 11am(PST)/2pm(EST)** with the NIH and LINCS presenting. [Please RSVP](https://crosspollinationevents.groups.io/g/main/viewevent?repeatid=33633&eventid=1005436&calstart=2021-02-02) and join us! Cross-Pollination events take place on the first Tuesday of every month. Please check out the [Cross-Pollination Schedule](https://docs.google.com/spreadsheets/d/1hQAeOLkivUZZnwZ_KxfGw3neezMaWbrPk9nnFiKfQGA/edit?usp=sharing) and let us know if you would like to present! When requesting a slot please include your preferred date and the length of your talk. Currently we have speakers scheduled out through June, but you can book a slot from July onwards.
 
 In February and March we are adding two new Cross-Pollination Events on Tuesday, **February 16 and March 16**. These 1.5 hour events will introduce the new R03 awards and share their projects and progress in the CFDE.
 
