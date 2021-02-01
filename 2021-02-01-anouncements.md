@@ -4,6 +4,10 @@ Hello Everyone! This week we have more Cross-Pollination events, the first meeti
 
 ## Events
 
+### Save The Date
+
+A CFDE Program meeting is planned for **May 10-11, 2021**. More details coming soon.
+
 ### Cross-Pollination Events
 
 The CFDE Cross-Pollination Series continues this week on **Tuesday, February 2, at 11am(PST)/2pm(EST)** with the NIH and LINCS presenting. [Please RSVP](https://crosspollinationevents.groups.io/g/main/viewevent?repeatid=33633&eventid=1005436&calstart=2021-02-02) and join us! Cross-Pollination events take place on the first Tuesday of every month. Please check out the [Cross-Pollination Schedule](https://docs.google.com/spreadsheets/d/1hQAeOLkivUZZnwZ_KxfGw3neezMaWbrPk9nnFiKfQGA/edit?usp=sharing) and let us know if you would like to present! When requesting a slot please include your preferred date and the length of your talk. Currently we have speakers scheduled out through June, but you can book a slot from July onwards.
