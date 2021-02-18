@@ -19,7 +19,7 @@ The Ontology Working Group has settled on bi-weekly meetings taking place on **W
 
 
 ## CFDE Trainings and Workshops
-On **February 25, at 11am(PST)/2pm(EST)** we will have a free hands-on workshop introducing [Cloud Computing with Amazon Web Services](https://registration.genomecenter.ucdavis.edu/events/copy_of_intro_aws_feb_2021/register/). This workshop is open to anyone, so please share with any of your colleagues you think might be interested in learning the basics of using this resource. 
+On **February 25, at 11am(PST)/2pm(EST)** we will have a free hands-on workshop introducing [Cloud Computing with Amazon Web Services](https://registration.genomecenter.ucdavis.edu/events/intro_aws_feb_2021/). This workshop is open to anyone, so please share with any of your colleagues you think might be interested in learning the basics of using this resource. 
 
 On **March 4, at 10am(PST)/1pm(EST)** the CFDE Training team will host a pilot training session [Intro to Conda](https://registration.genomecenter.ucdavis.edu/events/intro_to_conda_march4/register/) which will introduce the package and environment manager, Conda. Attendees will learn how to set up conda environments and manage software installations and discuss other applications, such as packaging software, running workflows, or creating binders. 
 
