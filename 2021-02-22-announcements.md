@@ -31,7 +31,7 @@ On **March 4, at 10am(PST)/1pm(EST)** the CFDE Training team will host a pilot t
 **NIH**: George Papanicolaou
 
 ## Contributing
-You can contribute to the next announcements by commenting on the open announcements issue in this repository.
+You can contribute to the next announcements by commenting on the open announcements issue in [this repository](https://github.com/nih-cfde/announcements/issues).
 
 Thank you all for your efforts and have a great week!
 
