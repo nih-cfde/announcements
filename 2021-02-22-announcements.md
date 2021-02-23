@@ -3,7 +3,7 @@
 This week's announcements consist of reminders for several meetings included last week with the addition of a newly scheduled meeting for the Gene Working Group. Check out details below!
 
 # CFDE Program Meeting
-A major CFDE Program meeting is scheduled for **May 10-11, 2021** with presentations and activities taking place from 11am EST until 4pm EST (8am-1pm PST) on both days.  All CFDE participants are encouraged to attend two days of workshops and talks on a range of topics. A calendar invitations have gone out. If you have questions or concerns about his important meeting, contact us at support@cfde.atlassian.net.
+A major CFDE Program meeting is scheduled for **May 10-11, 2021** with presentations and activities taking place from 11am EST until 4pm EST (8am-1pm PST) on both days.  All CFDE participants are encouraged to attend two days of workshops and talks on a range of topics. A calendar invitation has already gone out. If you have questions or concerns about his important meeting, contact us at support@cfde.atlassian.net.
 
 ## Cross-Pollination Events
 The next CFDE Cross-Pollination Event is on **Tuesday, March 2, at 11am(PST)/2pm(EST)** with presentations from [Metabolomics and GTEx](https://docs.google.com/document/d/12qQiv8lNwZ2E2oaCR3jXsOgL5lMtrosxoONushBFGtc/edit?usp=sharing). Regular Cross-Pollination events take place on the first Tuesday of every month. Please check out the [Cross-Pollination Schedule](https://docs.google.com/spreadsheets/d/1hQAeOLkivUZZnwZ_KxfGw3neezMaWbrPk9nnFiKfQGA/edit?usp=sharing) and let us know if you would like to present! When requesting a slot please include your preferred date and the length of your talk. Currently we have speakers scheduled out through June, but you can book a slot from July onwards.
