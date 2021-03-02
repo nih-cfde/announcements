@@ -18,7 +18,7 @@ The new Gene Working Group has scheduled its kickoff meeting for **March 3, at 1
 ### Ontology Working Group Meeting
 The next meeting will take place on **March 10**. The Ontology Working Group meets bi-weekly on **Wednesdays at 8am(PST)/11am(EST)**. You can get involved by joining their [mailing list](https://crosspollinationevents.groups.io/g/OntologyWorkingGroup) and [slack channel](https://cfdeworkspace.slack.com/archives/C01GP14DLJX.).  
 
-## Anatomy Working Group Update
+### Anatomy Working Group Update
 The CFDE Anatomy Working Group had a meeting  on Tuesday, February 23. You can check out the [cAWG Agenda](https://docs.google.com/document/d/1K5L9WllqaABbr4MGO21ogDELyvtpVrD31wbvSNhx6ys/edit?usp=sharing) for meeting notes and information on communicating with or [joining the group](https://crosspollinationevents.groups.io/g/AnatomyWorkingGroup). Members are organizing the next meeting and we will share the date when it is set.
 
 ## CFDE Trainings and Workshops
