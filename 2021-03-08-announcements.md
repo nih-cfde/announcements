@@ -23,7 +23,7 @@ The CFDE Anatomy Working Group had a meeting on Tuesday, February 23. You can ch
 
 ## CFDE Trainings and Workshops
 
-On **March 18, at 10am(PST)/1pm(EST)** the CFDE Training team will host a second pilot training session [Intro to Conda](https://registration.genomecenter.ucdavis.edu/events/intro_to_conda_march4/register/) which will introduce the package and environment manager, Conda. Attendees will learn how to set up conda environments and manage software installations and discuss other applications, such as packaging software, running workflows, or creating binders. 
+On **March 18, at 10am(PST)/1pm(EST)** the CFDE Training team will host a second pilot training session [Intro to Conda](https://www.nih-cfde.org/events/introduction-to-conda-and-package-management-2/) which will introduce the package and environment manager, Conda. Attendees will learn how to set up conda environments and manage software installations and discuss other applications, such as packaging software, running workflows, or creating binders. 
 
 More workshops and trainings are being planned and will appear on our [events calendar](https://www.nih-cfde.org/events/) where anyone can click on a training event for registration details. Spread the word! 
 
