@@ -29,6 +29,7 @@ The next meeting will take place on **Wednesday, March 24, at 8am(PST)/11am(EST)
 
 ## Welcome
 **Kids First**: Željko Vrbaški, Mia Nastic
+
 **RTI**: Susan Eversole
 
 ## Contributing
