@@ -28,8 +28,7 @@ You can view the [draft charter](https://drive.google.com/file/d/1DbdbQ73_YlvG9i
 The next meeting will take place on **Wednesday, March 24, at 8am(PST)/11am(EST)**. Ontology Working Group meetings are scheduled bi-weekly on Wednesdays. You can get involved by joining their [mailing list](https://crosspollinationevents.groups.io/g/OntologyWorkingGroup) and [slack channel](https://cfdeworkspace.slack.com/archives/C01GP14DLJX.).  
 
 ## Welcome
-**Kids First**: Željko Vrbaški
-**Kids First**: Mia Nastic
+**Kids First**: Željko Vrbaški, Mia Nastic
 **RTI**: Susan Eversole
 
 ## Contributing
