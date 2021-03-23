@@ -9,8 +9,12 @@ The next meeting will take place on **Wednesday, March 24, at 8am(PST)/11am(EST)
 ## CFDE Trainings and Workshops
 On March 18, the CFDE Training team hosted a second training session : Intro to Conda.  Attendees learned how to set up conda environments and manage software installations and discuss other applications, such as packaging software, running workflows, or creating binders. More workshops and trainings are being planned and will appear on our [events calendar](https://www.nih-cfde.org/events/) where anyone can click on a training event for registration details. Spread the word! 
 
+We are committed to developing training workshops that will equip the CFDE with resources to enhance their research and collaboration efforts! Our Common Fund Training & Outreach Team would like your input on what lessons we can design to best achieve these goals in collaboration with your teams and users. Please take a moment to fill out our Google form and let us know where you think we can maximize our impact: [CFDE Training and Workshop Survey](https://forms.gle/48hGnrEfiHXJZtUs7).
+
 ## Cross-Pollination Events
 Regular Cross-Pollination events take place on the first Tuesday of every month. Please check out the [Cross-Pollination Schedule](https://docs.google.com/spreadsheets/d/1hQAeOLkivUZZnwZ_KxfGw3neezMaWbrPk9nnFiKfQGA/edit?usp=sharing) and let us know if you would like to present! When requesting a slot please include your preferred date and the length of your talk. Currently we have speakers scheduled out through June, but you can book a slot from July onwards. The next event will be on **Wednesday, April 6, at 11am PST/2pm EST**.
+
+You can check out slides, recordings, and transcripts through links included in the agenda from last week's special R03 Cross-Pollination event: [Introducing the R03s - March 16](https://docs.google.com/document/d/1hKPdAs82zqcUZQjMPRcRtUvAkhdIR2ibW2VLn9P_ZZg/edit?usp=sharing).
 
 ## Working Group Updates
 
