@@ -21,7 +21,7 @@ The next meeting for the CFDE Anatomy Working Group is scheduled for **Tuesday, 
 ### Gene Working Group
 A Doodle Poll is out now for members to find a suitable time for the next meeting (**April 21 or 28**).  Join the [slack channel](https://join.slack.com/t/cfdeworkspace/shared_invite/zt-hupdgmhw-ZzSUc8Oau3DTpfBr4PccKg) or [mailing list ](https://cfdepublic.groups.io/g/GeneWorkingGroup)  to keep up to date. You can view the [draft charter](https://drive.google.com/file/d/1DbdbQ73_YlvG9iDuDSljyWyZWKdQDKNX/view?usp=sharing) for more details about the goals and activities proposed for the group. 
 ### Ontology Working Group
-The next meeting is scheduled for **Wednesday, April 21, at 8am(PST)/11am(EST)**. Ontology Working Group meetings are scheduled bi-weekly on Wednesdays. You can get involved by joining their [mailing list](https://crosspollinationevents.groups.io/g/OntologyWorkingGroup) and [slack channel](https://cfdeworkspace.slack.com/archives/C01GP14DLJX.).  
+The next meeting is scheduled for **Wednesday, April 21, at 8am(PST)/11am(EST)**. Ontology Working Group meetings are scheduled bi-weekly on Wednesdays. You can get involved by joining their [mailing list](https://cfdepublic.groups.io/g/OntologyWorkingGroup) and [slack channel](https://cfdeworkspace.slack.com/archives/C01GP14DLJX.).  
 
 ## Contributing
 You can contribute to the next announcements by commenting on the open announcements issue in [this repository](https://github.com/nih-cfde/announcements/issues). Share your events and updates by posting links and descriptions in our announcements issue!
