@@ -24,7 +24,7 @@ A Doodle Poll is out now for members to find a suitable time for the next meetin
 The next meeting is scheduled for **Wednesday, April 21, at 8am(PST)/11am(EST)**. Ontology Working Group meetings are scheduled bi-weekly on Wednesdays. You can get involved by joining their [mailing list](https://crosspollinationevents.groups.io/g/OntologyWorkingGroup) and [slack channel](https://cfdeworkspace.slack.com/archives/C01GP14DLJX.).  
 
 ## Contributing
-You can contribute to the next announcements by commenting on the open announcements issue in [this repository](https://github.com/nih-cfde/announcements/issues).
+You can contribute to the next announcements by commenting on the open announcements issue in [this repository](https://github.com/nih-cfde/announcements/issues). Share your events and updates by posting links and descriptions in our announcements issue!
 
 Thank you all for your efforts and have a great week!
 
