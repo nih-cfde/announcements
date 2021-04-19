@@ -8,12 +8,15 @@ A major CFDE Program meeting is scheduled for **May 10-11, 2021** with presentat
 The next event will be on **Tuesday, May 4, at 11am PDT / 2pm EDT**. Regular Cross-Pollination events take place on the first Tuesday of every month. Please check out the [Cross-Pollination Schedule](https://docs.google.com/spreadsheets/d/1hQAeOLkivUZZnwZ_KxfGw3neezMaWbrPk9nnFiKfQGA/edit?usp=sharing) and let us know if you would like to present! When requesting a slot please include your preferred date and the length of your talk. Currently we have speakers scheduled out through June, but you can book a slot from July onwards. 
 
 ## CFDE Trainings and Workshops
-
 On **April 21 and 22, at 10am PDT / 1pm EDT** we will have a free hands-on workshop introducing [Cloud Computing with Amazon Web Services](https://www.nih-cfde.org/events/intro-to-aws/?pk_campaign=anc). This workshop is open to anyone, but both sessions have already filled. Please check out the [CFDE Events Calendar](https://www.nih-cfde.org/events/?pk_campaign=anc) to find and register for future events. Our workshops are open to all, so feel free to share this information with interested friends and colleagues.
 
 ## SPARC FAIR Codeathon
 The @NIHCommonFund's Stimulating Peripheral Activity to Relieve Conditions (SPARC) program has exciting news! The SPARC Data and Resource Center is hosting an in-the-cloud codeathon to make SPARC data, tools, and resources more FAIR: Findable, Accessible, Interoperable, and Reusable! Several prizes of up to US$10,000 each will be awarded. Submissions for project proposals are being accepted up until **Monday, May 10**: https://bit.ly/3mI81JZ
 
+## CFDE Portal Submission Feedback
+We'd like to interview you about your experience with our portal and submission system. This is a chance to tell us how you would like to see your data displayed in the CFDE Portal, and how you'd like to review your data submissions; to help us correct course on anything we've gotten wrong. You do not need to have data in the portal or to be familiar with our portal or submission system to participate, we will walk you through the interface during the interview process.
+
+Sign up here: https://doodle.com/poll/ab9z39yagdvh8cq9?utm_source=poll&utm_medium=link
 ## Working Group Updates
 
 ### Anatomy Working Group
