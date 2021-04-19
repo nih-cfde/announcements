@@ -14,7 +14,7 @@ On **April 21 and 22, at 10am PDT / 1pm EDT** we will have a free hands-on works
 The @NIHCommonFund's Stimulating Peripheral Activity to Relieve Conditions (SPARC) program has exciting news! The SPARC Data and Resource Center is hosting an in-the-cloud codeathon to make SPARC data, tools, and resources more FAIR: Findable, Accessible, Interoperable, and Reusable! Several prizes of up to US$10,000 each will be awarded. Submissions for project proposals are being accepted up until **Monday, May 10**: https://bit.ly/3mI81JZ
 
 ## CFDE Portal Submission Feedback
-We're looking for one more person to help us do an assessment of our portal https://app.nih-cfde.org/. You'll spend one hour in a guided interview with Interface Guru, a third party Usability Consultant we've hired to run the assessment. If you're interested please fill in this availability form (https://doodle.com/poll/pqem26h5uh8p3mpy?utm_source=poll&utm_medium=link) and we'll find you a time slot.
+We're looking for one more person to help us do an assessment of our portal https://app.nih-cfde.org/. You'll spend one hour in a guided interview with Interface Guru, a third party Usability Consultant we've hired to run the assessment. If you're interested, please fill in this availability form (https://doodle.com/poll/pqem26h5uh8p3mpy?utm_source=poll&utm_medium=link) and we'll find you a time slot.
 
 ## Working Group Updates
 
