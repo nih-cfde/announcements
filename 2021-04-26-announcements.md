@@ -9,6 +9,8 @@ The next event will be on **Tuesday, May 4, at 11am PDT / 2pm EDT**. Regular Cro
 ## CFDE Trainings and Workshops
 On **April 28  at 10am PDT / 1pm EDT** the CFDE Training team and HuBMAP are presenting a free hands-on workshop titled [Introduction to 3D Tissue Mapping](https://www.nih-cfde.org/events/cfde-training-workshop-3/?pk_campaign=anc). Please check out the [CFDE Events Calendar](https://www.nih-cfde.org/events/?pk_campaign=anc) to find and register for future events. Our workshops are open to all, so feel free to share this information with interested friends and colleagues.
 
+On **May 5 at 10am PDT / 1pm EDT** we will be hosting our popular [Introduction to Amazon Web Services](https://www.nih-cfde.org/events/introduction-to-amazon-web-services-workshop-3/?pk_campaign.anc) workshop. Register by clicking on the link.
+
 ## SPARC FAIR Codeathon
 The @NIHCommonFund's Stimulating Peripheral Activity to Relieve Conditions (SPARC) program has exciting news! The SPARC Data and Resource Center is hosting an in-the-cloud codeathon to make SPARC data, tools, and resources more FAIR: Findable, Accessible, Interoperable, and Reusable! Several prizes of up to US$10,000 each will be awarded. Submissions for project proposals are being accepted up until **Monday, May 10**: https://bit.ly/3mI81JZ
 
