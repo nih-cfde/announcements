@@ -24,7 +24,7 @@ The next meeting for the Gene Working Group is not yet scheduled.  Join the [sla
 The next meeting for the Ontology Working Group is scheduled for **Wednesday, May 5, at 8am PDT / 11am EDT**. Ontology Working Group meetings are scheduled bi-weekly on Wednesdays. You can get involved by joining their [mailing list](https://cfdepublic.groups.io/g/OntologyWorkingGroup) and [slack channel](https://cfdeworkspace.slack.com/archives/C01GP14DLJX.).  
 
 ## Welcome
-**GTEx**: Joseph Okonda
+**GTEx**: Joseph Okonda<br>
 **HuBMAP**: Bruce Herr
 
 ## Contributing
