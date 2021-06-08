@@ -7,7 +7,7 @@ The next scheduled meeting is **Tuesday, July 6th**. Regular Cross-Pollination e
 
 On **June 9** we will hold a free two hour workshop featuring an overview of RNA sequence analysis with a focus on differential expression. In **[RNA-Seq Concepts, Designs, and Workflows](https://www.nih-cfde.org/events/rnaseq-concepts-design-and-workflows-2/?pk_campaign=anc)** we will discuss experimental design and sample preparation and explore analysis workflows. By the end of this workshop you will know the fundamentals of designing a differential expression experiment, have a conceptual understanding of the process of RNAseq analysis, and understand common RNA-Seq problems and how to prevent them. 
 
-On **June 16th, 2021** at **10am PDT**, join us and the LINCS Project for a 1-hour demonstration of using Appyters, which are web-based customizable Jupyter notebooks executed in the cloud, to generate downstream visualization and enrichment analysis from a list of differentially expressed genes.  Appyters can be applied to a variety of workflows including building customized machine learning pipelines, analyzing omics data, and producing publishable figures. Register Here: https://www.nih-cfde.org/events/pop-up-series-introduction-to-rnaseq-related-appyters/?pk_campaign=anc
+On **June 16th, 2021** at **10am PDT**, join us and the LINCS Project for a 1-hour demonstration of using Appyters, which are web-based customizable Jupyter notebooks executed in the cloud, to generate downstream visualization and enrichment analysis from a list of differentially expressed genes.  Appyters can be applied to a variety of workflows including building customized machine learning pipelines, analyzing omics data, and producing publishable figures. [Click Here to Register](https://www.nih-cfde.org/events/pop-up-series-introduction-to-rnaseq-related-appyters/?pk_campaign=anc)
 
 Please check out the [CFDE Events Calendar](https://www.nih-cfde.org/events/?pk_campaign=anc) to find and register for these and other future events. Our workshops are open to all, so feel free to share this information with interested friends and colleagues.
 
@@ -16,14 +16,14 @@ The NIH has issued a Research Opportunity Announcement (ROA) for Data Generation
 
 ## Synergizing Biomedical Ontologies Workshop
 
-Date: **July 14-15, 2021** (Virtual)
+Date: **July 14-15, 2021** 
 
 Website: https://github.com/OntoloBridge/WSBO
 
 Ontologies are standardized, formal vocabularies developed by domain experts, typically in collaboration with ontologists. In the era of big data and AI, they enable finding, accessing, interoperating and reusing datasets and other digital research objects, in other words, making data F.A.I.R. The biomedical field is especially rich with similar ontologies, including BAO and OBI, MONDO and DOID, DTO and PR, CLO and BRENDA, UBERON and FMA, and others. The goal of this meeting is to stimulate conversation around the best practices for synergizing ontologies, with an emphasis on collaborative development and dynamic workflows.
 Workshop Co-chairs: Stephan Schürer (University of Miami), Mark Musen (Stanford University)
 
- Registration link: https://www.eventbrite.co.uk/e/workshop-on-synergizing-biomedical-ontologies-wsbo-tickets-149242142265
+Registration link: https://www.eventbrite.co.uk/e/workshop-on-synergizing-biomedical-ontologies-wsbo-tickets-149242142265
 
 ## Working Group Updates
 
