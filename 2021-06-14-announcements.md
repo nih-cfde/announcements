@@ -9,7 +9,7 @@ On **June 16th** at **10am PDT**, join us and the LINCS Project for a 1-hour dem
 
 On **June 21st and 23rd** we will host a two part (2 hour sessions each) workshop series that will provide hands-on experience in conducting basic RNA-Seq analysis in the cloud. We’ll go over how to process RNA-Seq data and cover the basics of differential gene expression and data visualization in R. This workshop will be conducted remotely via Zoom. The workshop Zoom link will be emailed to participants after registration closes. Participants should plan to fill out a brief survey before and after the workshop. Register here:
 June 21st: [RNA-Seq in the Cloud Part I](https://www.nih-cfde.org/events/rnaseq-in-the-cloud-2021-06-21/?pk_campaign=anc)
-June 22nd: [RNA-Seq in the Cloud Part II](https://www.nih-cfde.org/events/rnaseq-in-the-cloud-2021-06-23/?pk_campaign=anc) 
+June 23rd: [RNA-Seq in the Cloud Part II](https://www.nih-cfde.org/events/rnaseq-in-the-cloud-2021-06-23/?pk_campaign=anc) 
 
 Please check out the [CFDE Events Calendar](https://www.nih-cfde.org/events/?pk_campaign=anc) to find and register for these and other future events. Our workshops are open to all, so feel free to share this information with interested friends and colleagues.
 
