@@ -7,7 +7,7 @@ The next scheduled meeting is **Tuesday, July 6th**. Regular Cross-Pollination e
 
 On **June 21st and 23rd** we are hosting a two part (2 hours each session) workshop series that provides hands-on experience in conducting basic RNA-Seq analysis in the cloud.  This workshop has been fully booked! Send inquiries to training@cfde.atlassian.net if you would like to know more.
 
-On **June 30th at 10am PDT / 12pm EDT**, our popular 2-hour workshop: **Intro to AWS** introduces you to creating a computer “in the cloud” and logging into it, via Amazon Web Services. We create a small general-purpose Linux computer connect to it, and run a small job, while discussing the concepts and technologies involved. [Click Here to Register!](https://www.nih-cfde.org/events/cfde-training-workshop-2/?pk_campaign=anc)
+On **June 30th at 10am PDT / 12pm EDT**, our popular 2-hour workshop: **Intro to AWS** introduces you to creating a computer “in the cloud” and logging into it, via Amazon Web Services. We create a small general-purpose Linux computer, connect to it, and run a small job, while discussing the concepts and technologies involved. [Click Here to Register!](https://www.nih-cfde.org/events/cfde-training-workshop-2/?pk_campaign=anc)
 
 Please check out the [CFDE Events Calendar](https://www.nih-cfde.org/events/?pk_campaign=anc) to find and register for these and other future events. Our workshops are open to all, so feel free to share this information with interested friends and colleagues.
 
