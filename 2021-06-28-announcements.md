@@ -7,7 +7,7 @@ The next scheduled meeting is **Tuesday, July 6th**. SPARC will be giving a pres
 Please check out the [CFDE Events Calendar](https://www.nih-cfde.org/events/?pk_campaign=anc) to find and register for  future events. Our workshops are open to all, so feel free to share this information with interested friends and colleagues. Plans are now being made for July and August workshops.
 
 ## DCC Meeting Updates
-We have updated and changed many Bi-Weekly DCC meetings. All agendas and invitations have been updated, and some have been cancelled in the reorginization. If you are a member attending these meetings for your DCC please be sure to check your mail: in some cases old meetings have been cancelled with new invitations sent for the same time slots. If you have any questions or concerns, please contact our CFDE Help Desk: support@cfde.atlassian.net.
+We have updated and changed many Bi-Weekly DCC meetings. All agendas and invitations have been updated, and some have been cancelled in the reorganization. If you are a member attending these meetings for your DCC please be sure to check your e-mail: in some cases old meetings have been cancelled with new invitations sent for the same time slots. If you have any questions or concerns, please contact our CFDE Help Desk: support@cfde.atlassian.net.
 
 ## Working Group Updates
 ### Anatomy Working Group
