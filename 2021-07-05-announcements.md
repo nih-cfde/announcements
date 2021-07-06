@@ -7,7 +7,7 @@ The next scheduled meeting is today: [**Tuesday, July 6th**](https://docs.google
 Please check out the [CFDE Events Calendar](https://www.nih-cfde.org/events/?pk_campaign=anc) to find and register for future events. Our workshops are open to all, so feel free to share this information with interested friends and colleagues. This month we have Introductory Conda and R workshops, and an RNA-Seq Concepts, Design, & Workflow lesson.
 
 ## DCC Meeting Updates
-We have updated and changed many Bi-Weekly DCC meetings. All agendas and invitations have been updated, and some have been canceled in the reorginization. If you are a member attending these meetings for your DCC please be sure to check your mail: in some cases old meetings have been canceled with new invitations sent for the same time slots. _Scheduled meeting times have not changed, but invitations may have_. If you have any questions or concerns, please contact our CFDE Help Desk: support@cfde.atlassian.net.
+We have updated and changed many Bi-Weekly DCC meetings. All agendas and invitations have been updated, and some have been canceled in the reorganization. If you are a member attending these meetings for your DCC please be sure to check your mail: in some cases old meetings have been canceled with new invitations sent for the same time slots. _Scheduled meeting times have not changed, but invitations may have_. If you have any questions or concerns, please contact our CFDE Help Desk: support@cfde.atlassian.net.
 
 ## Working Group Updates
 ### Anatomy Working Group
