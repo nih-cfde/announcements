@@ -1,13 +1,13 @@
 # CFDE Announcements
 
 ## Cross-Pollination Events
-The next scheduled meeting is **Tuesday, July 6th**. SPARC will be giving a presentation on Protein-Disease Associations and we'll also have a demo of the recently updated CFDE Data Portal. Regular Cross-Pollination events take place on the first Tuesday of every month. Please check out the  [Cross-Pollination Schedule](https://docs.google.com/spreadsheets/d/1hQAeOLkivUZZnwZ_KxfGw3neezMaWbrPk9nnFiKfQGA/edit?usp=sharing)  and let us know if you would like to present! Please contact us today if you are interested in presenting at support@cfde.atlassian.net.
+The next scheduled meeting is today: [**Tuesday, July 6th**](https://docs.google.com/document/d/1Xrg2xFT3PRw4FwB72DKP60v1OYMScnJmM8Uv48nRD-8/edit#). IDG will be giving a presentation on Protein-Disease Associations and we'll also have a demo of the recently updated CFDE Data Portal. Regular Cross-Pollination events take place on the first Tuesday of every month. Please check out the  [Cross-Pollination Schedule](https://docs.google.com/spreadsheets/d/1hQAeOLkivUZZnwZ_KxfGw3neezMaWbrPk9nnFiKfQGA/edit?usp=sharing)  and let us know if you would like to present! We are actively looking for August presenters. Please contact us today if you are interested at support@cfde.atlassian.net.
 
 ## CFDE Trainings and Workshops
-Please check out the [CFDE Events Calendar](https://www.nih-cfde.org/events/?pk_campaign=anc) to find and register for  future events. Our workshops are open to all, so feel free to share this information with interested friends and colleagues. Plans are now being made for July and August workshops.
+Please check out the [CFDE Events Calendar](https://www.nih-cfde.org/events/?pk_campaign=anc) to find and register for future events. Our workshops are open to all, so feel free to share this information with interested friends and colleagues. This month we have Introductory Conda and R workshops, and an RNA-Seq Concepts, Design, & Workflow lesson.
 
 ## DCC Meeting Updates
-We have updated and changed many Bi-Weekly DCC meetings. All agendas and invitations have been updated, and some have been cancelled in the reorginization. If you are a member attending these meetings for your DCC please be sure to check your mail: in some cases old meetings have been cancelled with new invitations sent for the same time slots. If you have any questions or concerns, please contact our CFDE Help Desk: support@cfde.atlassian.net.
+We have updated and changed many Bi-Weekly DCC meetings. All agendas and invitations have been updated, and some have been canceled in the reorginization. If you are a member attending these meetings for your DCC please be sure to check your mail: in some cases old meetings have been canceled with new invitations sent for the same time slots. _Scheduled meeting times have not changed, but invitations may have_. If you have any questions or concerns, please contact our CFDE Help Desk: support@cfde.atlassian.net.
 
 ## Working Group Updates
 ### Anatomy Working Group
