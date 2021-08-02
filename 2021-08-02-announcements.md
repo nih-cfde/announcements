@@ -19,6 +19,9 @@ The CFDE Training Team in collaboration with the [UC Davis DataLab](https://data
 ### Ontology Working Group
 The next meeting for the Ontology Working Group is scheduled for **Wednesday, August 11 at 8am PDT / 11am EDT**. Ontology Working Group meetings are scheduled bi-weekly on Wednesdays. RFC and Survey 'homework' tasks can be found in the [rolling agenda](https://docs.google.com/document/d/1VoHHBeWfol6XNJa3kzOnOFuTaIrcLYbqKYQcOnj1oh4/edit#heading=h.3ia46913z0oa). You can get involved by joining their [mailing list](https://cfdepublic.groups.io/g/OntologyWorkingGroup).
 
+### Prototyping and Evaluation of Engineereing Technology (PEET) Working Group
+Anup Mahurkar and Titus Brown are creating a new working group focused on finding and evaluating existing software engineering solutions to meet CFDE-CC and DCC needs. This working group will be focused on evaluating and choosing existing software implementations, and/or prototyping modifications to implementations, that support ecosystem functionality such as data retrieval and resource registries. (The former is important for shopping cart and data export functionality, the latter is how we are planning to integrate with external services.) We are scheduling our first meeting to take place in the last two weeks of August. We encourage you to fill out this [scheduling poll](https://doodle.com/poll/xuehqyxi49sgk268?utm_source=poll&utm_medium=link) with your biweekly schedule so that we can pick a time that works for the most people. Please fill it out by the end of this week if you are interested in attending!
+
 ### Variant Working Group
 The Variant Working Group (VWG) kick-off call is scheduled for **Monday, August 9th at 11am PDT / 2pm EDT**. The call will cover VWG organization, background, and goals. All are invited to join. To participate join the VWG by sending an e-mail to: VariantWorkingGroup+subscribe@CFDEpublic.groups.io which will send out links and details for next week's meeting. 
 
