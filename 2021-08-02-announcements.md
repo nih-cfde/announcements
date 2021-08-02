@@ -17,7 +17,7 @@ The CFDE Training Team in collaboration with the [UC Davis DataLab](https://data
 ## Working Group Updates
 
 ### Ontology Working Group
-The next meeting for the Ontology Working Group is scheduled for **Wednesday, August 11 at 8am PDT / 11am EDT**. Ontology Working Group meetings are scheduled bi-weekly on Wednesdays. RFC and Survey 'homework' tasks can be found in the [rolling agenda](https://docs.google.com/document/d/1VoHHBeWfol6XNJa3kzOnOFuTaIrcLYbqKYQcOnj1oh4/edit#heading=h.3ia46913z0oa). You can get involved by joining their [mailing list](https://cfdepublic.groups.io/g/OntologyWorkingGroup) and [slack channel](https://cfdeworkspace.slack.com/archives/C01GP14DLJX.).  
+The next meeting for the Ontology Working Group is scheduled for **Wednesday, August 11 at 8am PDT / 11am EDT**. Ontology Working Group meetings are scheduled bi-weekly on Wednesdays. RFC and Survey 'homework' tasks can be found in the [rolling agenda](https://docs.google.com/document/d/1VoHHBeWfol6XNJa3kzOnOFuTaIrcLYbqKYQcOnj1oh4/edit#heading=h.3ia46913z0oa). You can get involved by joining their [mailing list](https://cfdepublic.groups.io/g/OntologyWorkingGroup).
 
 ### Variant Working Group
 The Variant Working Group (VWG) kick-off call is scheduled for **August 9th at 11am PDT / 2pm EDT**. The call will cover VWG organization, background, and goals. All are invited to join. To participate join the VWG by sending an e-mail to: VariantWorkingGroup+subscribe@CFDEpublic.groups.io which will send out links and details for next week's meeting. 
