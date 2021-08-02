@@ -1,7 +1,7 @@
 # CFDE Announcements
 
 ## Cross-Pollination Events
-The next scheduled meeting, for **Tuesday, August 3rd**, has been **CANCELLED**. The next scheduled meeting will take place on **September 7th**.  Please contact us today if you are interested in presenting at an upcoming event at support@cfde.atlassian.net! Regular Cross-Pollination events take place on the first Tuesday of every month. Please check out the  [Cross-Pollination Schedule](https://docs.google.com/spreadsheets/d/1hQAeOLkivUZZnwZ_KxfGw3neezMaWbrPk9nnFiKfQGA/edit?usp=sharing) for more details.
+The Cross-Pollination meeting, for **Tuesday, August 3rd**, has been **CANCELLED**. The next scheduled meeting will take place on **September 7th**.  Please contact us today if you are interested in presenting at an upcoming event at support@cfde.atlassian.net! Regular Cross-Pollination events take place on the first Tuesday of every month. Please check out the  [Cross-Pollination Schedule](https://docs.google.com/spreadsheets/d/1hQAeOLkivUZZnwZ_KxfGw3neezMaWbrPk9nnFiKfQGA/edit?usp=sharing) for more details.
 
 ## RFCs Available for Review and Comment
 CFDE Members are invited to review and comment on the following RFCs:
