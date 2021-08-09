@@ -4,7 +4,7 @@
 Our next scheduled meeting will take place on **September 7th**.  Please contact us today if you are interested in presenting at an upcoming event at support@cfde.atlassian.net! Regular Cross-Pollination events take place on the first Tuesday of every month. Please check out the  [Cross-Pollination Schedule](https://docs.google.com/spreadsheets/d/1hQAeOLkivUZZnwZ_KxfGw3neezMaWbrPk9nnFiKfQGA/edit?usp=sharing) for more details.
 
 ## RFCs Available for Review and Comment
-### Comments Close Friday, August 13th - _Make Yours Today!_
+### Comments For The Following Two RFCs Close Friday, August 13th - _Make Yours Today!_
 CFDE Members are invited to review and comment on the following RFCs:
 - [Use of EDAM for “file_format and “data_type” fields in the file table of the C2M2](https://docs.google.com/document/d/1HQPtk6381Yncxp8Apzxyv8YwPNYIcvWEAH0gKraqKHE/edit)
 - [Use of DOID for “disease” field in the C2M2 model](https://docs.google.com/document/d/1OS_69jvdexMvH9KSptGDAKAXCzyDtca2M0VjsGXImEE/edit)
