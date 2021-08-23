@@ -9,7 +9,7 @@ The Knowledge Management Center (KMC), as part of IDG, is hosting an upcoming ID
 2. Structural Biology evolution and prediction knowledge
 
 You can view the agenda here: https://drive.google.com/file/d/1mxvSnUgmJ15ZXbbb3ErnH2edt_wjTbQR/view?usp=sharing 
-To participate, register here: https://forms.gle/Po3tN1Kzz6BKarGW9 
+</br>To participate, register here: https://forms.gle/Po3tN1Kzz6BKarGW9 
 
 ## Funding Opportunities
 In August, NHGRI published three FOA’s that together request applications proposing a five-year pilot effort whose long-term goal is to catalog the molecular and cellular phenotypes resulting from null alleles of genes in human cells. MorPhiC Phase 1 will target 1000 loci for gene knock-outs; explore multiple molecular and cellular assays; develop analyses to help understand the utility of, and requirements for, the data, and to distribute the results to the community. 
