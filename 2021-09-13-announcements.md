@@ -1,7 +1,7 @@
 # CFDE Announcements
 
 ## Cross-Pollination Events
-Our next scheduled meeting will take place on **Tuesday, October 5th at 11am PDT / 2pm EDT**.  Representatives from Ex-RNA, HuBMAP, and GTEx will be presenting. Please contact us today if you are interested in presenting at an upcoming event at support@cfde.atlassian.net! Regular Cross-Pollination events take place on the first Tuesday of every month. Please check out the  [Cross-Pollination Schedule](https://docs.google.com/spreadsheets/d/1hQAeOLkivUZZnwZ_KxfGw3neezMaWbrPk9nnFiKfQGA/edit?usp=sharing) for more details.
+Our next scheduled meeting will take place on **Tuesday, October 5th at 11am PDT / 2pm EDT**. Representatives from Ex-RNA, HuBMAP, and GTEx will be presenting. Please contact us today if you are interested in presenting at an upcoming event at support@cfde.atlassian.net! Regular Cross-Pollination events take place on the first Tuesday of every month. Please check out the  [Cross-Pollination Schedule](https://docs.google.com/spreadsheets/d/1hQAeOLkivUZZnwZ_KxfGw3neezMaWbrPk9nnFiKfQGA/edit?usp=sharing) for more details.
 
 ## Working Group Updates
 
