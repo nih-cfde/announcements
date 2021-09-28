@@ -25,8 +25,11 @@ Subscribe to the PEET Working Group mailing list to receive updates and links to
 
 ## Welcome
 **4DNucleome**: Andrew Schroeder
+
 **GlyGen**: Raja Mazumder, Rene Ranzinger, Jeet Vora, Michael Tiemeyer
+
 **GM Kids First**: Meen Chul Kim
+
 **RTI**: Dean Jackman
 
 ## Contributing
