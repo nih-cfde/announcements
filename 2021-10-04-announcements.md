@@ -34,7 +34,9 @@ A schedule for future meetings will be part of the agenda for this meeting. The 
 
 ## Welcome
 **GlyGen**: Daniel Lyman
+
 **4DNucleome**: Peter Park
+
 **CFDE-CC**: Rayna Harris
 
 ## Contributing
