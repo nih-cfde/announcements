@@ -4,7 +4,7 @@
 Our next scheduled meeting will take place on **Tuesday, October 5th at 11am PDT / 2pm EDT**. Representatives from Ex-RNA, HuBMAP, and GTEx will be presenting. Please contact us today if you are interested in presenting at an upcoming event at support@cfde.atlassian.net! Regular Cross-Pollination events take place on the first Tuesday of every month. Please check out the  [Cross-Pollination Schedule](https://docs.google.com/spreadsheets/d/1hQAeOLkivUZZnwZ_KxfGw3neezMaWbrPk9nnFiKfQGA/edit?usp=sharing) for more details.
 
 ## CFDE Trainings and Workshops
-On October 4,  our team plans to host our **[Intro to Conda](https://training.nih-cfde.org/en/latest/General-Tools/Introduction-to-Conda/)** lesson.  You can explore the [CFDE Events Calendar](https://www.nih-cfde.org/events/?pk_campaign=anc) to find and register for future events. Our workshops are open to all, so feel free to share this information with interested friends and colleagues. 
+On October 6,  our team plans to host our **[Intro to Conda](https://training.nih-cfde.org/en/latest/General-Tools/Introduction-to-Conda/)** lesson.  You can explore the [CFDE Events Calendar](https://www.nih-cfde.org/events/?pk_campaign=anc) to find and register for future events. Our workshops are open to all, so feel free to share this information with interested friends and colleagues. 
 
 ## RFCs Available for Review and Comment
 Two new RFCs are now available for comment by the community until October 15, 2021:
