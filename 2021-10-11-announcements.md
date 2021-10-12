@@ -30,7 +30,9 @@ The next meeting for the Ontology Working Group is scheduled for **Wednesday, Oc
 
 ## Welcome
 **CFDE-CC**: Natalie Sturgeon
+
 **Metabolomics**: Sumana Srinivasan
+
 **4DN**: Andrea Cosolo, Clara Bakker
 
 ## Contributing
