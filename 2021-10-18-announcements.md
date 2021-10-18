@@ -12,7 +12,7 @@ Search Capabilities across the Biomedical Landscape for NIH-wide Data Discovery,
 This new group will survey and evaluate existing resources and then recommend standards for metadata, file formats, and an API for the CFDE to facilitate storing, retrieving, and querying gene expression data. For more detail see the [WG charter](https://docs.google.com/document/d/1D_Kjn_yBIYibco33zsmfBMrC0C39IGwW_VPu9b_iXnM/edit).  Join our mailing list by sending a message to [GeneExpressionDataExchange+subscribe@CFDEpublic.groups.io](GeneExpressionDataExchange+subscribe@CFDEpublic.groups.io) .
 
 ### Gene Working Group
-The next meeting for the Gene Working Group is scheduled for Wednesday, **November 10 at 11am PDT / 2pm EDT**.  Please join our [mailing list](https://cfdepublic.groups.io/g/GeneWorkingGroup) and Slack channel (gene-wg) for more details about working group activities.
+The next meeting for the Gene Working Group is scheduled for **Wednesday, November 10 at 11am PDT / 2pm EDT**.  Please join our [mailing list](https://cfdepublic.groups.io/g/GeneWorkingGroup) and Slack channel (gene-wg) for more details about working group activities.
 
 ### Ontology Working Group
 The next meeting for the Ontology Working Group is scheduled for **Wednesday, October 20 at 8am PDT / 11am EDT**. Ontology Working Group meetings are scheduled bi-weekly on Wednesdays. RFC and Survey 'homework' tasks can be found in the [rolling agenda](https://docs.google.com/document/d/1VoHHBeWfol6XNJa3kzOnOFuTaIrcLYbqKYQcOnj1oh4/edit#heading=h.3ia46913z0oa). You can get involved by joining their [mailing list](https://cfdepublic.groups.io/g/OntologyWorkingGroup) and [slack channel](https://join.slack.com/share/zt-wramurmc-0VP3wp~RYL8y1VPndQvYXw).  
