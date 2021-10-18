@@ -18,8 +18,8 @@ The next meeting for the Gene Working Group is scheduled for **Wednesday, Novemb
 The next meeting for the Ontology Working Group is scheduled for **Wednesday, October 20 at 8am PDT / 11am EDT**. Ontology Working Group meetings are scheduled bi-weekly on Wednesdays. RFC and Survey 'homework' tasks can be found in the [rolling agenda](https://docs.google.com/document/d/1VoHHBeWfol6XNJa3kzOnOFuTaIrcLYbqKYQcOnj1oh4/edit#heading=h.3ia46913z0oa). You can get involved by joining their [mailing list](https://cfdepublic.groups.io/g/OntologyWorkingGroup) and [slack channel](https://join.slack.com/share/zt-wramurmc-0VP3wp~RYL8y1VPndQvYXw).  
 
 ### Variant Working Group
-This new working group is now holding meetings monthly on the second Monday at 1pm PDT / 4pm EDT.
-The next meeting will take place on November 8. The [charter](https://docs.google.com/document/d/1L84L20Z3v4wPYjdqjQz0JpGFud0JPNUK/edit?usp=sharing&ouid=111367545760360703840&rtpof=true&sd=true) and [agenda](https://docs.google.com/document/d/1c3bxCKCRTWtvZopSLOT2iZsetylKtqdilfF1hB1thFQ/edit?usp=sharing) are available for viewing. Join the conversation on our [slack channel](https://join.slack.com/share/zt-wr77bkhw-RrrNoi4OaOgG~u7D2DFayA)!
+This new working group is now holding meetings on the second Monday each month.
+The next meeting will take place on **Monday, November 8 at 1pm PDT / 4pm EDT**. The [charter](https://docs.google.com/document/d/1L84L20Z3v4wPYjdqjQz0JpGFud0JPNUK/edit?usp=sharing&ouid=111367545760360703840&rtpof=true&sd=true) and [agenda](https://docs.google.com/document/d/1c3bxCKCRTWtvZopSLOT2iZsetylKtqdilfF1hB1thFQ/edit?usp=sharing) are available for viewing. Join the conversation on our [slack channel](https://join.slack.com/share/zt-wr77bkhw-RrrNoi4OaOgG~u7D2DFayA)!
 
 ## Welcome
 **Kids First**: Yiran Guo
