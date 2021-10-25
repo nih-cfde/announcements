@@ -9,7 +9,7 @@ Search Capabilities across the Biomedical Landscape for NIH-wide Data Discovery,
 ## Working Group Updates
 
 ### Anatomy Working Group
-The cAWG will hold a host a presentation by Andrew Schroeder about how 4D Nucleome uses anatomy information for their data portal. This meeting will take place on **Wednesday, November 3rd at 9am PDT / 12pm EDT**. Invitations have gone out to member already. If you missed yours or would like to get involved, reach out the the group's mailing list: AnatomyWorkingGroup+subscribe@CFDEpublic.groups.io
+The cAWG will hold a host a presentation by Andrew Schroeder about how 4D Nucleome uses anatomy information for their data portal. This meeting will take place on **Wednesday, November 3rd at 9am PDT / 12pm EDT**. Invitations have gone out to members already. If you missed yours or would like to get involved, reach out to the group's mailing list: AnatomyWorkingGroup+subscribe@CFDEpublic.groups.io
 
 ### Gene Expression Data Exchange Working Group 
 This new group will survey and evaluate existing resources and then recommend standards for metadata, file formats, and an API for the CFDE to facilitate storing, retrieving, and querying gene expression data. For more detail see the [WG charter](https://docs.google.com/document/d/1D_Kjn_yBIYibco33zsmfBMrC0C39IGwW_VPu9b_iXnM/edit).  Join our mailing list by sending a message to [GeneExpressionDataExchange+subscribe@CFDEpublic.groups.io](GeneExpressionDataExchange+subscribe@CFDEpublic.groups.io) .
