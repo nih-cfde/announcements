@@ -4,13 +4,13 @@
 Our next scheduled meeting will take place on **Tuesday, December 7th at 11am PST / 2pm EST**. December's meeting is scheduled to have presentations from R03s detailing their progress and experiences using CF data and tools.  Regular Cross-Pollination events take place on the first Tuesday of every month. Please check out the  [Cross-Pollination Schedule](https://docs.google.com/spreadsheets/d/1hQAeOLkivUZZnwZ_KxfGw3neezMaWbrPk9nnFiKfQGA/edit?usp=sharing) for more details.
 
 ## IDG Digital Tool Fest
-IDG (Illuminating the Druggable Genome) is hosting the inaugural IDG Digital Tool Fest on **Tuesday, November 30th at 9am-12pm PT / 10am-1pm MT / 12-3pm ET.** It is a free, virtual meeting with 10-minute demonstration of IDG developed digital tools for exploring target-centric and drug-centric information. These tools offer users the ability to construct their own specialized queries to access information programmatically. 
+IDG (Illuminating the Druggable Genome) is hosting the inaugural IDG Digital Tool Fest on **Tuesday, November 30th at 9am-12pm PT / 10am-1pm MT / 12-3pm ET.** It is a free, virtual meeting with a 10-minute demonstration of IDG developed digital tools for exploring target-centric and drug-centric information. These tools offer users the ability to construct their own specialized queries to access information programmatically. 
 
 For more information and a listing of all the highlighted tools visit https://druggablegenome.net/IDG-Digital-Tool-Fest-Fall2021.
 To register, visit https://hsc-unm.zoom.us/meeting/register/tJEpfuGqqTooG9DC2YjXf5ah72tBXPcOGLaS.
 
 ## CFDE Training Efforts
-For December we are planning a CFDE Portal Demo, an encore Intro to Unix session, and our popular Intro to AWS workshop.  Check out our [Events Calendar](https://www.nih-cfde.org/events/) for details and registration availability. 
+For December we are planning a CFDE Portal Demo, an encore Intro to Unix session, and our popular Intro to AWS workshop. Check out our [Events Calendar](https://www.nih-cfde.org/events/) for details and registration availability. 
 
 ## New RFC Open for Comment
 The [Use of Uberon for anatomy in the C2M2](https://docs.google.com/document/d/1x-KYUOvzO6NMiHqnl9G8JzakLcqJbkfG/edit)  RFC is now available for comment by the community until December 15th. Everyone in the community is invited to respond by leaving comments, critiques, and support at the link above.  If there are no substantial objections to the RFC in that time, it will be adopted as a CFDE Best Practice. You can read more about our RFC process [here](https://docs.google.com/document/d/1masYhU6W_zgUWN1XWS8_f-KiSp1cTDdo4eZJWpsXyHQ/edit).
