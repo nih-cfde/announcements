@@ -16,6 +16,7 @@ Objective: Define activities and begin work on one or more 3D atlas pilot projec
 IDG (Illuminating the Druggable Genome) is hosting the inaugural IDG Digital Tool Fest on **Tuesday, November 30th at 9am-12pm PST / 12-3pm EST.** It is a free, virtual meeting with a 10-minute demonstration of IDG developed digital tools for exploring target-centric and drug-centric information. These tools offer users the ability to construct their own specialized queries to access information programmatically. 
 
 For more information and a listing of all the highlighted tools visit https://druggablegenome.net/IDG-Digital-Tool-Fest-Fall2021.
+
 To register, visit https://hsc-unm.zoom.us/meeting/register/tJEpfuGqqTooG9DC2YjXf5ah72tBXPcOGLaS.
 
 ## CFDE Training Efforts
