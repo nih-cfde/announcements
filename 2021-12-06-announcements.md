@@ -1,4 +1,4 @@
-# CFDE Announcements -- DRAFT
+# CFDE Announcements
 
 ## Cross-Pollination Events
 Our next scheduled meeting will take place on **Tuesday, December 7th at 11am PST / 2pm EST**. December's meeting is scheduled to have presentations from R03 awardees detailing their progress and experiences using CF data and tools.  Regular Cross-Pollination events take place on the first Tuesday of every month. Please check out the  [Cross-Pollination Schedule](https://docs.google.com/spreadsheets/d/1hQAeOLkivUZZnwZ_KxfGw3neezMaWbrPk9nnFiKfQGA/edit?usp=sharing) for more details.
