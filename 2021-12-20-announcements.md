@@ -1,19 +1,21 @@
 # CFDE Announcements
 
+## RFCs Open for Comment
+Two RFC’s are now available for comment by the community:
+
+•	 **[Variant Information and Knowledge Exchange Principles](https://docs.google.com/document/d/1bM2L3Ux3CrGISUVETVeVcvK8e0XT_Zey/edit) -- COMMENTS CLOSE 12/21/2021**
+
+•	 [Considerations about future gene pages and gene-centric dashboard for CFDE](https://docs.google.com/document/d/1n9sKKGcXpZscG-eGClg7RmUs8fzYbeQ1/edit) -- Comments Close January 11th.
+
+RFC stands for “Requests for Comments”. These are proposals being made by members of the CFDE to suggest that the CFDE community as a whole adopt the suggested new best practice. Everyone in the community is invited to respond to these proposals by leaving comments, critiques, and support at the links above. Comments are open for one month at which point the documents will be reviewed. If there are no substantial objections to the RFC in that time, it will be adopted as a CFDE Best Practice. You can read more about our RFC process here.
+
+The [Use of Uberon for anatomy in the C2M2](https://docs.google.com/document/d/1x-KYUOvzO6NMiHqnl9G8JzakLcqJbkfG/edit)  RFC is also still available for comment by the community until December 15th. 
+
 ## Cross-Pollination Events
 Our next scheduled meeting will take place on **Tuesday, January 4th at 11am PT / 2pm ET**. January's meeting is scheduled to have a second round of presentations from R03 awardees detailing their progress and experiences using CF data and tools.  Regular Cross-Pollination events take place on the first Tuesday of every month. Please check out the  [Cross-Pollination Schedule](https://docs.google.com/spreadsheets/d/1hQAeOLkivUZZnwZ_KxfGw3neezMaWbrPk9nnFiKfQGA/edit?usp=sharing) for more details.
 
 ## CFDE Training Efforts
 We are continuting to update and modify our two part Cloud Computing series that includes the **Intro to UNIX** workshop scheduled for **January 19th** and the **Intro to AWS** module scheduled for **January 26th.** Check out our [Events Calendar](https://www.nih-cfde.org/events/) for details and registration availability.
-
-## RFCs Open for Comment
-Two RFC’s are now available for comment by the community:
-•	[Variant Information and Knowledge Exchange Principles](https://docs.google.com/document/d/1bM2L3Ux3CrGISUVETVeVcvK8e0XT_Zey/edit) -- COMMENTS CLOSE 12/21/2021
-•	[Considerations about future gene pages and gene-centric dashboard for CFDE](https://docs.google.com/document/d/1n9sKKGcXpZscG-eGClg7RmUs8fzYbeQ1/edit) -- Comments Close January 11th.
-
-RFC stands for “Requests for Comments”. These are proposals being made by members of the CFDE to suggest that the CFDE community as a whole adopt the suggested new best practice. Everyone in the community is invited to respond to these proposals by leaving comments, critiques, and support at the links above. Comments are open for one month at which point the documents will be reviewed. If there are no substantial objections to the RFC in that time, it will be adopted as a CFDE Best Practice. You can read more about our RFC process here.
-
-The [Use of Uberon for anatomy in the C2M2](https://docs.google.com/document/d/1x-KYUOvzO6NMiHqnl9G8JzakLcqJbkfG/edit)  RFC is also still available for comment by the community until December 15th. 
 
 ## Working Group Updates
 
