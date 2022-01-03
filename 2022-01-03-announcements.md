@@ -1,13 +1,11 @@
 # CFDE Announcements
 
 ## RFCs Open for Comment
-Two RFC’s are now available for comment by the community:
+**ALL RFC’s are currently available for comment by the community**. 
 
-•	 [Variant Information and Knowledge Exchange Principles](https://docs.google.com/document/d/1bM2L3Ux3CrGISUVETVeVcvK8e0XT_Zey/edit) -- Closing January 11th
+Please visit the RFC Repo [here](https://github.com/nih-cfde/rfcs/blob/master/adoptionstatus.md) to add your voice to these important documents.
 
-•	 [Considerations about future gene pages and gene-centric dashboard for CFDE](https://docs.google.com/document/d/1n9sKKGcXpZscG-eGClg7RmUs8fzYbeQ1/edit) -- Closing January 11th.
-
-RFC stands for “Requests for Comments”. These are proposals being made by members of the CFDE to suggest that the CFDE community as a whole adopt the suggested new best practice. Everyone in the community is invited to respond to these proposals by leaving comments, critiques, and support at the links above. Comments are open for one month at which point the documents will be reviewed. If there are no substantial objections to the RFC in that time, it will be adopted as a CFDE Best Practice. You can read more about our RFC process here.
+RFC stands for “Requests for Comments”. These are proposals being made by members of the CFDE to suggest that the CFDE community as a whole adopt the suggested new best practice. Everyone in the community is invited to respond to these proposals by leaving comments, critiques, and support at the links above. Comments are open for until __January 11__ at which point the documents will be reviewed. _If there are no substantial objections to the RFC in that time, it will be adopted as a CFDE Best Practice._ 
 
 ## NIH ODSS Search Workshop
 There is an upcoming Search workshop (Jan 19-20, 2022) that NIH ODSS is organizing. Parts with talks are free and open to everyone. Breakout sessions are by invitation only. Registration is open at the following link
