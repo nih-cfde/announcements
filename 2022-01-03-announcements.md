@@ -9,6 +9,10 @@ Two RFC’s are now available for comment by the community:
 
 RFC stands for “Requests for Comments”. These are proposals being made by members of the CFDE to suggest that the CFDE community as a whole adopt the suggested new best practice. Everyone in the community is invited to respond to these proposals by leaving comments, critiques, and support at the links above. Comments are open for one month at which point the documents will be reviewed. If there are no substantial objections to the RFC in that time, it will be adopted as a CFDE Best Practice. You can read more about our RFC process here.
 
+## NIH ODSS Search Workshop
+There is an upcoming Search workshop (Jan 19-20, 2022) that NIH ODSS is organizing. Parts with talks are free and open to everyone. Breakout sessions are by invitation only. Registration is open at the following link
+https://web.cvent.com/event/9eec8239-babb-4beb-a0fe-45945e00bc4e/summary
+
 ## Cross-Pollination Events
 Our next scheduled meeting will take place on **Tuesday, January 4th at 11am PT / 2pm ET**. [January's meeting](https://docs.google.com/document/d/1B8hXzgpTdGvUKqlv8gRLnvX6yh9oFme2jTETiTD5bkA/edit?usp=sharing) is scheduled to have a second round of presentations from R03 awardees detailing their progress and experiences using CF data and tools.  Regular Cross-Pollination events take place on the first Tuesday of every month. Please check out the  [Cross-Pollination Schedule](https://docs.google.com/spreadsheets/d/1hQAeOLkivUZZnwZ_KxfGw3neezMaWbrPk9nnFiKfQGA/edit?usp=sharing) for more details. We are currently looking for speakers for our February meeting. Pleaes let us know if you have something to share!
 
