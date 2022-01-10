@@ -37,6 +37,7 @@ This new working group is now holding meetings on the second Monday each month. 
 ## Farewell
 **IDG**: Eryk Kropiwnicki
 **CFDE-CC**: Saranya Canchi
+**MoTrPAC**: Karen Dalton
 
 ## Contributing
 You can contribute to the next announcements by commenting on the open announcements issue in [this repository](https://github.com/nih-cfde/announcements/issues). Share your events and updates by posting links and descriptions in our announcements issue!
