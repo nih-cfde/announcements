@@ -18,7 +18,7 @@ https://web.cvent.com/event/9eec8239-babb-4beb-a0fe-45945e00bc4e/summary
 Our next scheduled meeting will take place on **Tuesday, February 1st at 11am PT / 2pm ET**.  Regular Cross-Pollination events take place on the first Tuesday of every month. Please check out the  [Cross-Pollination Schedule](https://docs.google.com/spreadsheets/d/1hQAeOLkivUZZnwZ_KxfGw3neezMaWbrPk9nnFiKfQGA/edit?usp=sharing) for more details. We are currently looking for speakers for our February meeting. Please let us know if you have something to share!
 
 ## CFDE Training Efforts
-We are continuing to update and modify our two part Cloud Computing series that includes the **Intro to UNIX** workshop scheduled for **January 19th** and the **Intro to AWS** module scheduled for **January 26th.** Check out our [Events Calendar](https://www.nih-cfde.org/events/) for details and registration availability.
+We are continuing to update and modify our two part Cloud Computing series that includes the [Intro to UNIX](https://www.nih-cfde.org/events/introduction-to-unix-for-cloud-computing/?pk_campaign=anc) workshop scheduled for **January 19th** and the [Intro to AWS](https://www.nih-cfde.org/events/introduction-to-amazon-web-services-3/?pk_campaign=anc) module scheduled for **January 26th.** Check out our [Events Calendar](https://www.nih-cfde.org/events/) for details and registration availability.
 
 ## Working Group Updates
 
@@ -36,6 +36,7 @@ This new working group is now holding meetings on the second Monday each month. 
 **CFDE-CC**: Jessica Lumian
 ## Farewell
 **IDG**: Eryk Kropiwnicki
+**CFDE-CC**: Saranya Canchi
 
 ## Contributing
 You can contribute to the next announcements by commenting on the open announcements issue in [this repository](https://github.com/nih-cfde/announcements/issues). Share your events and updates by posting links and descriptions in our announcements issue!
