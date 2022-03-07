@@ -42,7 +42,7 @@ Please share this announcement with anyone you think would be interested.
 Anatomy | TBD | 9am PT / 12pm ET | [Anatomy WG](https://docs.google.com/document/d/1K5L9WllqaABbr4MGO21ogDELyvtpVrD31wbvSNhx6ys/edit?usp=sharing)
 Gene | TBD | 11am PT / 2pm ET | [Gene WG](https://drive.google.com/file/d/18QXDCFkHTVF2LTvab-wz9CprHxegP6VU/view) |
 Gene Expression | March 14th | 11am PT / 2pm ET | [Gene Expression Data Exchange](https://docs.google.com/document/d/1XVe7qPOOvADdxXI3m4pIwhKYf0qUxcYUMUz2vTdDL8I/edit) |
-Knowledge Graph | March 15th | 12pm PT / 3pm ET | [Knowledge Grapgh WG](https://docs.google.com/document/d/1WvpkLxWPW0XxZsam6jEJeEUQr2sQ0EWC/edit?usp=sharing&ouid=111367545760360703840&rtpof=true&sd=true)
+Knowledge Graph | March 15th | 12pm PT / 3pm ET | [Knowledge Graph WG](https://docs.google.com/document/d/1WvpkLxWPW0XxZsam6jEJeEUQr2sQ0EWC/edit?usp=sharing&ouid=111367545760360703840&rtpof=true&sd=true)
 Ontology | March 9th | 8am PT / 11am ET | [Ontology WG](https://docs.google.com/document/d/1VoHHBeWfol6XNJa3kzOnOFuTaIrcLYbqKYQcOnj1oh4/edit?usp=sharing) |
 PEET | TBD | | [PEET Charter](https://docs.google.com/document/d/1mtAlTCu6S-9kQ-7sIp7LHIXbDpi6rFT105Eh5ICeT2w/edit) |
 Variant | March 14th | 1pm PT / 4pm ET | [Variant WG](https://docs.google.com/document/d/1c3bxCKCRTWtvZopSLOT2iZsetylKtqdilfF1hB1thFQ/edit)
