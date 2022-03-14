@@ -1,4 +1,4 @@
-# CFDE Announcements --DRAFT
+# CFDE Announcements
 
 ## Cross-Pollination Events
 Our next scheduled meeting will take place on **Tuesday, April 5th at 11am PT / 2pm ET**.  This meeting will include [R03 presentations and a presentation on converting data into the C2M2](https://docs.google.com/document/d/1nYiJkrvwpOefg78qtYrwCROaD7Bur6FlkwJ-aZuuTYI/edit#heading=h.af0seinevhzq). Regular Cross-Pollination events take place on the first Tuesday of every month. Please check out the  [Cross-Pollination Schedule](https://docs.google.com/spreadsheets/d/1hQAeOLkivUZZnwZ_KxfGw3neezMaWbrPk9nnFiKfQGA/edit?usp=sharing) for more details. We are currently looking for speakers for our February meeting. Please let us know at support@cfde.atlassian.net if you have something to share!
@@ -9,11 +9,11 @@ On **March 22nd** we are piloting a brand new [Introduction to R for RNA-Seq Ana
 ## NIH Common Fund - Funding Opportunities
 The new NIH Common Fund Program - Somatic Mosaicism across Human Tissues (SMaHT) will start in 2023 (https://commonfund.nih.gov/smaht). Five initiatives have recently been issued to achieve the program goals:
 
-RFA-RM-22-011 -Technology and Tools Development: https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-22-011.html
-RFA-RM-22-012 - Tissue Procurement Center: https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-22-012.html
-RFA-RM-22-013 - Genome Characterization Centers: https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-22-013.html
-RFA-RM-22-009 - Organizational Center: https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-22-009.html
-RFA-RM-22-010 - Data Analysis Center: https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-22-010.html
+- RFA-RM-22-011 -[Technology and Tools Development](https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-22-011.html)
+- RFA-RM-22-012 - [Tissue Procurement Center](https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-22-012.html)
+- RFA-RM-22-013 - [Genome Characterization Centers](https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-22-013.html)
+- RFA-RM-22-009 - [Organizational Center](https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-22-009.html)
+- RFA-RM-22-010 - [Data Analysis Center](https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-22-010.html)
 
 While Letters of Intent are not required, they are strongly encouraged.  They are due June 8, 2022. Applications are due July 8, 2022. A Technical Assistance Webinar will be held at 12:00pm EDT on Friday, April 29, 2022.  Please check the SMaHT website (https://commonfund.nih.gov/smaht) for details.  For more information, please check the SMaHT FAQ page (https://commonfund.nih.gov/smaht/faqs) or contact us at [SMaHT@mail.nih.gov](mailto:SMaHT@mail.nih.gov)<mailto:SMaHT@mail.nih.gov>
 
