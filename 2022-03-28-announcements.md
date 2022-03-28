@@ -18,13 +18,13 @@ The NIH has announced the release of a [Research Opportunity Announcement](https
 
 This ROA aims to establish the NCPI Administrative Coordination Center (ACC), which will provide technical, administrative, coordination, and project management support across NCPI participants and collaborators. The primary responsibility of the ACC will be to support the NIH in identifying, prioritizing, and overseeing interoperability projects, which are technical projects that are driven by scientific use cases that leverage datasets from multiple NIH cloud repositories. Additionally, the ACC will have wide-ranging responsibilities that include supporting of the creation and maintenance of communication and training materials, organizing and facilitating events related to NCPI activities, providing project management for NCPI interoperability projects and working groups, monitoring of progress and milestones, supporting the NIH in developing good governance practices, and supporting the onboarding of new partner platforms.
 
-Please consider this opportunity, if relevant. Letters of Intent (LOIs) are due by April 15th. Both LOIs and questions can be submitted to [ncpi-info@od.nih.gov](mailto:ncpi-info@od.nih.gov) .
+Please consider this opportunity, if relevant. Letters of Intent (LOIs) are due by April 15th. Both LOIs and questions can be submitted to [ncpi-info@od.nih.gov](mailto:ncpi-info@od.nih.gov)
 
 ### Somatic Mosaicism across Human Tissues (SMaHT) 
 
 This new NIH Common Fund program will start in 2023 (https://commonfund.nih.gov/smaht). Five initiatives have recently been issued to achieve the program goals:
 
-- RFA-RM-22-011 -[Technology and Tools Development](https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-22-011.html)
+- RFA-RM-22-011 - [Technology and Tools Development](https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-22-011.html)
 - RFA-RM-22-012 - [Tissue Procurement Center](https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-22-012.html)
 - RFA-RM-22-013 - [Genome Characterization Centers](https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-22-013.html)
 - RFA-RM-22-009 - [Organizational Center](https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-22-009.html)
