@@ -24,9 +24,9 @@ Letters of Intent (LOIs) are due by April 15th. Both LOIs and questions can be s
 
 ### Somatic Mosaicism across Human Tissues (SMaHT) 
 
-This new NIH Common Fund program will start in 2023 (https://commonfund.nih.gov/smaht). Five initiatives have recently been issued to achieve the program goals: https://commonfund.nih.gov/smaht/fundingopportunities
+This new NIH Common Fund program will start in 2023 (https://commonfund.nih.gov/smaht). Five initiatives have recently been issued to achieve the program goals: https://commonfund.nih.gov/smaht/fundingopportunities.
 
-While Letters of Intent are not required, they are strongly encouraged.  They are due June 8, 2022. Applications are due July 8, 2022. A Technical Assistance Webinar will be held at 12:00pm EDT on Friday, April 29, 2022.  Please check the SMaHT website (https://commonfund.nih.gov/smaht) for details.  For more information, please check the SMaHT FAQ page (https://commonfund.nih.gov/smaht/faqs) or contact us at [SMaHT@mail.nih.gov](mailto:SMaHT@mail.nih.gov)<mailto:SMaHT@mail.nih.gov>
+While Letters of Intent are not required, they are strongly encouraged.  They are due June 8, 2022. Applications are due July 8, 2022. A Technical Assistance Webinar will be held at 12:00pm EDT on Friday, April 29, 2022.  Please check the SMaHT website (https://commonfund.nih.gov/smaht) for details.  For more information, please check the SMaHT FAQ page (https://commonfund.nih.gov/smaht/faqs) or contact us at [SMaHT@mail.nih.gov](mailto:SMaHT@mail.nih.gov).
 
 ## Working Group Updates
 
