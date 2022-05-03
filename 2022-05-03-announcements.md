@@ -1,7 +1,7 @@
 # CFDE Announcements
 
 ## June All-Hands Meeting
-The CFDE Program Team is pleased to announce we will be holding the annual CFDE Program Meeting on June 9-10, 2022 at the Bethesdan hotel in Bethesda, MD. The purpose of this meeting is to bring together the CFDE community to review progress over the past year and discuss strategic issues that impact the ecosystem as a whole. At this time, we are striving for an all in-person meeting. [Click here to book](https://www.hilton.com/en/book/reservation/deeplink/?ctyhocn=WASBAUP&groupCode=AH6&arrivaldate=2022-06-08&departuredate=2022-06-10&cid=OM,WW,HILTONLINK,EN,DirectLink&fromId=HILTONLINKDIRECT).
+The CFDE Program Team is pleased to announce we will be holding the annual CFDE Program Meeting on June 9-10, 2022 at the Bethesdan Hotel in Bethesda, MD. The purpose of this meeting is to bring together the CFDE community to review progress over the past year and discuss strategic issues that impact the ecosystem as a whole. At this time, we are striving for an all in-person meeting. [Click here to book](https://www.hilton.com/en/book/reservation/deeplink/?ctyhocn=WASBAUP&groupCode=AH6&arrivaldate=2022-06-08&departuredate=2022-06-10&cid=OM,WW,HILTONLINK,EN,DirectLink&fromId=HILTONLINKDIRECT).
 
 ## Cross-Pollination Events
 Our next scheduled meeting will take place **Today, May 3rd at 11am PT / 2pm ET**.  We will have CFDE announcements and a presentation CFChemDb. Regular Cross-Pollination events take place on the first Tuesday of every month. Please check out the  [Cross-Pollination Schedule](https://docs.google.com/spreadsheets/d/1hQAeOLkivUZZnwZ_KxfGw3neezMaWbrPk9nnFiKfQGA/edit?usp=sharing) for more details.  Please let us know at support@cfde.atlassian.net if you have something to share!
