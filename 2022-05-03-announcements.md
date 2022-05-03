@@ -16,7 +16,7 @@ The [FAIR Principles for Sharing Information and Knowledge about Variants Regula
 
 We are excited to announce a new release of the [Common Fund Data Ecosystem Portal](https://app.nih-cfde.org/)! This release features both a data and feature update!
 
-We are very excited to announce the addition of a new Common Fund group: Glycosciences! The goal of Glycosciences is to create new resources, tools, and methods to make the study of sugars more accessible to the broader research community.
+This release includes the addition of a new Common Fund group: Glycosciences! The goal of Glycosciences is to create new resources, tools, and methods to make the study of sugars more accessible to the broader research community.
 
 ### Common Fund Programs on the CFDE Portal:
 
