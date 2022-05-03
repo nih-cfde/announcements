@@ -1,15 +1,15 @@
 # CFDE Announcements
 
 ## June All-Hands Meeting
-The CFDE Program Team is pleased to announce we will be holding the annual CFDE Program Meeting on June 9-10, 2022 at the Bethesdan Hotel in Bethesda, MD. The purpose of this meeting is to bring together the CFDE community to review progress over the past year and discuss strategic issues that impact the ecosystem as a whole. At this time, we are striving for an all in-person meeting. [Click here to book](https://www.hilton.com/en/book/reservation/deeplink/?ctyhocn=WASBAUP&groupCode=AH6&arrivaldate=2022-06-08&departuredate=2022-06-10&cid=OM,WW,HILTONLINK,EN,DirectLink&fromId=HILTONLINKDIRECT).
+The CFDE Program Team is pleased to announce we will be holding the annual CFDE Program Meeting on June 9-10, 2022 at the Bethesdan Hotel in Bethesda, MD. The purpose of this meeting is to bring together the CFDE community to review progress over the past year and discuss strategic issues that impact the ecosystem as a whole. At this time, we are striving for an all in-person meeting. [Click here to book a hotel room](https://www.hilton.com/en/book/reservation/deeplink/?ctyhocn=WASBAUP&groupCode=AH6&arrivaldate=2022-06-08&departuredate=2022-06-10&cid=OM,WW,HILTONLINK,EN,DirectLink&fromId=HILTONLINKDIRECT).
 
 ## Cross-Pollination Events
 Our next scheduled meeting will take place **Today, May 3rd at 11am PT / 2pm ET**.  We will have CFDE announcements and a presentation CFChemDb. Regular Cross-Pollination events take place on the first Tuesday of every month. Please check out the  [Cross-Pollination Schedule](https://docs.google.com/spreadsheets/d/1hQAeOLkivUZZnwZ_KxfGw3neezMaWbrPk9nnFiKfQGA/edit?usp=sharing) for more details.  Please let us know at support@cfde.atlassian.net if you have something to share!
 
 ## CFDE May Hackathon
-The second [CFDE Hackathon](http://ivory.idyll.org/blog/2022-feb-hackathon.html) will take place 5/9 - 5/13 (rescheduled from 4/26 - 4/29). This event will showcase CFDE datasets (a data jamboree if you will!). This event will feature workshops and demos from the CFDE-CC, Kids First, and SPARC! More details about sessions will be available very soon. You can register for this event [here](https://www.nih-cfde.org/events/may-2022-hackathon/)!
+The second [CFDE Hackathon](http://ivory.idyll.org/blog/2022-feb-hackathon.html) will take place May 9-13, 2022. This event will showcase CFDE datasets (a data jamboree if you will!). This event will feature workshops and demos from the CFDE-CC, Kids First, and SPARC! More details about sessions will be available very soon. You can register for this event [here](https://www.nih-cfde.org/events/may-2022-hackathon/)!
 
-## RFC - Open for Comments
+## RFC - Closed
 The [FAIR Principles for Sharing Information and Knowledge about Variants Regulating Gene Expression](https://docs.google.com/document/d/1p5wsaf2pLr6WZWQX8v2sqHCnu14S8riU/edit) RFC is now closed for comments and being considered for adoption. Please relay any concerns to the CFDE helpdesk at [support@cfde.atlassian.net](mailto:support@cfde.atlassian.net).
 
 ## CFDE Portal Data and Feature Update
