@@ -1,4 +1,4 @@
-# CFDE Announcements -- DRAFT
+# CFDE Announcements
 
 ## June All-Hands Meeting
 The CFDE Program Team is pleased to announce we will be holding the annual CFDE Program Meeting on June 9-10, 2022 at the Bethesdan Hotel in Bethesda, MD. The purpose of this meeting is to bring the CFDE community together to review progress over the past year and discuss strategic issues that impact the ecosystem as a whole. At this time, we are striving for an all in-person meeting. You can find details about the event including travel recommendations and booking links out our [2022 June All-Hands Meeting Website](https://nih-cfde.github.io/2022-june-all-hands-meeting/) or you can [click here to book a hotel room](https://www.hilton.com/en/book/reservation/deeplink/?ctyhocn=WASBAUP&groupCode=AH6&arrivaldate=2022-06-08&departuredate=2022-06-10&cid=OM,WW,HILTONLINK,EN,DirectLink&fromId=HILTONLINKDIRECT) now. Discounted room rates are available until May 20.
