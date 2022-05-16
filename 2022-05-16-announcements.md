@@ -21,6 +21,9 @@ The LINCS DCIC published a paper in the 2022 webserver issue of Nucleic Acid Res
 ## FASEB DataWorks! Prize
 The Federation of American Societies for Experimental Biology (FASEB) the National Institutes of Health are championing a bold vision of data sharing and reuse. The DataWorks! Prize fuels this vision with an annual challenge that showcases the benefits of research data management while recognizing and rewarding teams whose research demonstrates the power of data sharing and reuse practices to advance scientific discovery and human health. They are seeking new and innovative approaches to data sharing and reuse in biological and biomedical research. The [2022 DataWorks! Prize](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fclick.icptrack.com%2Ficp%2Frelay.php%3Fr%3D40524122%26msgid%3D389205%26act%3D35CB%26c%3D1433802%26pid%3D955646%26destination%3Dhttp%253A%252F%252Fwww.herox.com%252Fdataworks%26cf%3D6604%26v%3D6b0f294cee7c2f90194a34fd0dd74ee3c9c164baeb31cd692265b1511c46b12b&data=05%7C01%7Chaluk.resat%40nih.gov%7C590f60c97951402974a108da337057aa%7C14b77578977342d58507251ca2dc2b06%7C0%7C0%7C637878854846540848%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=o5fRCMPp%2Fs1Whz2WnBg66SXyPLiA%2F9KUu23tekeXavY%3D&reserved=0) will distribute up to $500,000 in awards. 
 
+## Job Opportunity
+Please see the attachment to this e-mail for details about a Data Science Program Director Opportunity in the NIH Office of the Director.
+
 ## Working Group Updates
 
 | Working Group | Date | Time | Agenda |
