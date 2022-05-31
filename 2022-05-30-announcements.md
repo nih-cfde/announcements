@@ -1,16 +1,13 @@
 # CFDE Announcements
 
 ## June All-Hands Meeting
-
-The [All Hands Meeting](https://nih-cfde.github.io/2022-june-all-hands-meeting/) is **June 8 & 9**.  If you are attending, please remember to pack masks and COVID tests for each day. Read more about COVID-19 precautions [here](https://nih-cfde.github.io/2022-june-all-hands-meeting/COVID/).  **Registration is mandatory** for those planning to attend. **[Please register here.](https://forms.gle/XYerABGPdPyoJgNR7)**
+The [All-Hands Meeting](https://nih-cfde.github.io/2022-june-all-hands-meeting/) is **June 8 & 9**.  If you are attending, please remember to pack masks and COVID tests for each day. Read more about COVID-19 precautions [here](https://nih-cfde.github.io/2022-june-all-hands-meeting/COVID/).  **Registration is mandatory** for those planning to attend. **[Please register here.](https://forms.gle/XYerABGPdPyoJgNR7)**
 
 ## Cross-Pollination Meeting
-
 Our next scheduled meeting will take place June 7th at 2pm ET / 11am PT.  The [June agenda](https://docs.google.com/document/d/1ZS246eC_TzN9hkZPE5gY8zAar82pIlmzWEcptjp2Njg/edit) includes presentations on 4DN Imaging Data Models and NIH's Bridge to Artificial Intelligence (B2AI). Regular Cross-Pollination events take place on the first Tuesday of every month. View the [Cross-Pollination Schedule](https://docs.google.com/spreadsheets/d/1hQAeOLkivUZZnwZ_KxfGw3neezMaWbrPk9nnFiKfQGA/edit?usp=sharing) for more details. Email [support@cfde.atlassian.net](mailto:support@cfde.atlassian.net) if you would like to present.
 
 ## Content Generation Sprints
-
-Two [Content Generation Sprints](https://nih-cfde.github.io/2022-content-generation-sprints/) will take place in July and August. Please indicate your interest and availability [here](https://forms.gle/zppvKfF5NQPXj4sr9).
+The CFDE-CC will be hosting two [Content Generation Sprints](https://nih-cfde.github.io/2022-content-generation-sprints/) in July and August. The purpose of these sprints is to produce annotations for genes, anatomy terms, compounds, and diseases in the CFDE Search Portal. Please indicate your interest and availability [here](https://forms.gle/zppvKfF5NQPXj4sr9).
 
 ## Upcoming Data Submission Deadline for CFDE Portal
 The next data submission deadline for the CFDE Portal will be **June 15**. All groups who would like to update their data must submit and approve it by this deadline. If you would not like to update or submit new data, no action is required on your part. Previously submitted data will be included in this data release.
