@@ -1,4 +1,4 @@
-# CFDE Announcements -- DRAFT DRAFT DRAFT
+# CFDE Announcements
 
 ## Cross-Pollination Meeting
 Our next scheduled meeting will take place **August 2nd at 2pm ET / 11am PT**.  We will not be holding a July meeting. The [August agenda](https://docs.google.com/document/d/1XKPhtaO9uT41dfEgmJchjC-pg0PYO_onWlowMl4AQGM/edit?usp=sharing) includes presentations from **exRNA** and **SenNet**. Regular Cross-Pollination events take place on the first Tuesday of every month. View the [Cross-Pollination Schedule](https://docs.google.com/spreadsheets/d/1hQAeOLkivUZZnwZ_KxfGw3neezMaWbrPk9nnFiKfQGA/edit?usp=sharing) for more details. Email [support@cfde.atlassian.net](mailto:support@cfde.atlassian.net) if you would like to present.
