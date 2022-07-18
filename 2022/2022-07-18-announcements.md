@@ -5,7 +5,7 @@ Our next scheduled meeting will take place **August 2nd at 2pm ET / 11am PT**.  
 
 ## CFDE Portal Data Update and Content Registry
 
-We are excited to announce a new release of the [Common Fund Data Ecosystem Portal](https://https://app.nih-cfde.org/)!
+We are excited to announce a new release of the [Common Fund Data Ecosystem Portal](https://app.nih-cfde.org/)!
 
 #### Data Update
 
