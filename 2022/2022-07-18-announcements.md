@@ -25,7 +25,7 @@ As of now, we have data from the following groups in the portal:
 
 #### Content Registry Update
 
-We are also pleased to announce that the first public release of the content registry is imminent! The registry hosts annotations on gene, anatomy, compound, and disease portal pages.
+We are also pleased to announce that the first public release of the content registry is live for gene pages! The registry can host annotations on gene, anatomy, compound, and disease portal pages.
 
 An example annotation is here: https://app.nih-cfde.org/chaise/record/#1/CFDE:gene/nid=1
 
