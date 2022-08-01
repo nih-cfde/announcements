@@ -9,14 +9,15 @@ Regular Cross-Pollination events take place on the first Tuesday of every month.
 We are inviting you to submit short video demonstrations of your CFDE technical products in advance of the September 8th Council of Councils meeting! The goals of the videos will be to showcase current and future products enabled by the CFDE, including (but not limited to) DCC partnerships, data portal functionality, and R03 outputs. These videos will be displayed prominently on the CFDE website and will also be sent directly to the attendees of the Council of Councils meeting.
 
 We suggest:
-•	One or more ~5 minute video(s)
-•	Target audience: clinicians and biomedical researchers
-•	Provide conceptual motivation along with a brief demonstration and a short technical discussion of future possibilities
+
+-	One or more ~5 minute video(s)
+-	Target audience: clinicians and biomedical researchers
+-	Provide conceptual motivation along with a brief demonstration and a short technical discussion of future possibilities
 
 Timeline: 
-**August 1st** - provide video “abstract” [here](https://docs.google.com/document/d/1Azttan73vUiia8rv8M0tkyE_SAGD4kdfoqhQN5HOB9Y/edit#)
-**August 5th** - add links to draft video for review by consortium [here](https://docs.google.com/document/d/1Azttan73vUiia8rv8M0tkyE_SAGD4kdfoqhQN5HOB9Y/edit#)
-**August 15th** - full video upload
+- **August 1st** - provide video “abstract” [here](https://docs.google.com/document/d/1Azttan73vUiia8rv8M0tkyE_SAGD4kdfoqhQN5HOB9Y/edit#)
+- **August 5th** - add links to draft video for review by consortium [here](https://docs.google.com/document/d/1Azttan73vUiia8rv8M0tkyE_SAGD4kdfoqhQN5HOB9Y/edit#)
+- **August 15th** - full video upload
 
 ## Content Generation Sprints
 The second session of the CFDE-CC hosted Content Generation Sprints last will take place **August 8 - 12**. The purpose of these sprints is to produce annotations for genes, anatomy terms, compounds, and diseases in the CFDE Search Portal. The product of our first sprint can be viewed at [https://github.com/nih-cfde/update-content-registry](https://github.com/nih-cfde/update-content-registry). Please indicate your interest and availability [here](https://forms.gle/zppvKfF5NQPXj4sr9). 
