@@ -1,12 +1,12 @@
 # CFDE Announcements
 
 ## Cross-Pollination Meeting
-This month's  Cross Pollination meeting is happening on Tuesday (tomorrow!), August 2nd at 2pm ET / 11am PT Cross. The [August agenda](https://docs.google.com/document/d/1XKPhtaO9uT41dfEgmJchjC-pg0PYO_onWlowMl4AQGM/edit?usp=sharing) includes short demos of CFDE search portal and the GTEx/HuBMAP Explorer User as well as a presentation from  Aleks Milosavljevic (exRNA) on "Understanding congenital heart disease within an ecosystem of FAIR data, information, and knowledge".
+This month's  Cross Pollination meeting is happening on Tuesday (tomorrow!), **August 2nd at 2pm ET / 11am PT**. The [August agenda](https://docs.google.com/document/d/1XKPhtaO9uT41dfEgmJchjC-pg0PYO_onWlowMl4AQGM/edit?usp=sharing) includes short demos of CFDE search portal and the GTEx/HuBMAP Explorer User as well as a presentation from  Aleks Milosavljevic (exRNA) on "Understanding congenital heart disease within an ecosystem of FAIR data, information, and knowledge".
 
-Regular Cross-Pollination events take place on the first Tuesday of every month. View the [Cross-Pollination Schedule](https://docs.google.com/spreadsheets/d/1hQAeOLkivUZZnwZ_KxfGw3neezMaWbrPk9nnFiKfQGA/edit?usp=sharing) for more details. Johnathan Silverstein will present on The Common Fund Cellular Senescence Network (SenNet) on September 6. Email [support@cfde.atlassian.net](mailto:support@cfde.atlassian.net) if you would like to present on September 6 or or October 4.  
+Regular Cross-Pollination events take place on the first Tuesday of every month. View the [Cross-Pollination Schedule](https://docs.google.com/spreadsheets/d/1hQAeOLkivUZZnwZ_KxfGw3neezMaWbrPk9nnFiKfQGA/edit?usp=sharing) for more details. Jonathan Silverstein will present on The Common Fund Cellular Senescence Network (SenNet) on September 6. Email [support@cfde.atlassian.net](mailto:support@cfde.atlassian.net) if you would like to present on September 6 or or October 4.  
 
 ## CFDE Videos for Council of Councils
-We are inviting you to submit short video demonstrations of your CFDE technical products in advance of the September 8th Council of Councils meeting! The goals of the videos will be to showcase current and future products enabled by the CFDE, including (but not limited to) DCC partnerships, data portal functionality, and R03 outputs. These videos will be displayed prominently on the CFDE website and will also be sent directly to the attendees of the Council of Councils meeting.
+We are inviting you to submit short video demonstrations of your CFDE technical products in advance of the **September 8th** Council of Councils meeting! The goals of the videos will be to showcase current and future products enabled by the CFDE, including (but not limited to) DCC partnerships, data portal functionality, and R03 outputs. These videos will be displayed prominently on the CFDE website and will also be sent directly to the attendees of the Council of Councils meeting.
 
 We suggest:
 
