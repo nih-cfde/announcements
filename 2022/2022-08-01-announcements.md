@@ -29,10 +29,10 @@ The second session of the CFDE-CC hosted Content Generation Sprints last will ta
 The [NIH Common Fund](https://commonfund.nih.gov/) is soliciting ideas for potential new scientific programs that may be supported in fiscal year 2025 or beyond. Anyone can submit an idea in response to this  [Request for Information](https://gcc02.safelinks.protection.outlook.com/?url=http%3A%2F%2Fgo.usa.gov%2FxSkzc&data=05%7C01%7Cwendy.knosp%40nih.gov%7C7355c3b172e74aea00ea08da6bfed99a%7C14b77578977342d58507251ca2dc2b06%7C0%7C0%7C637941040969607767%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=EPRQ3DJYeRiIdq%2FkP75mGVj0EgPZZDqBJ7NWrbO%2BWdE%3D&reserved=0)  that was recently published. The Common Fund supports [bold scientific programs](https://commonfund.nih.gov/programs) that catalyze discovery across all biomedical and behavioral research. These programs create a space where investigators and multiple NIH Institutes and Centers collaborate on innovative research expected to address high priority challenges for the NIH as a whole and make a broader impact in the scientific community. 
 
 Common Fund programs:
-•	Are trans-NIH (not disease-specific or relevant to the mission of only one or a few NIH Institutes or Centers)
-•	Require a large, coordinated effort in which many investigators undertake research projects directed at a common goal
-•	Have specific goals and deliverables that can be achieved in 5-10 years
-•	Are sufficiently large and complex (with an approximate budget of $25-50 million/year for 5-10 years) to warrant a trans-NIH, coordinated approach
+-	Are trans-NIH (not disease-specific or relevant to the mission of only one or a few NIH Institutes or Centers)
+-	Require a large, coordinated effort in which many investigators undertake research projects directed at a common goal
+-	Have specific goals and deliverables that can be achieved in 5-10 years
+-	Are sufficiently large and complex (with an approximate budget of $25-50 million/year for 5-10 years) to warrant a trans-NIH, coordinated approach
 
 NIH encourages idea submissions that describe what you think is the greatest opportunity or challenge in biomedical research today and what makes it the right time to address this idea through a Common Fund program.
 
