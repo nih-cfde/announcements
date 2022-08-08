@@ -39,4 +39,4 @@ You can contribute to the next announcements by commenting on the open announcem
 
 Thank you all for your efforts and have a great week!
 
-- Rayna Harris
+-- Rayna Harris
