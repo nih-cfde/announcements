@@ -6,7 +6,7 @@ If you are a partner, please sign up to present at an upcoming Cross Pollination
 
 ## CFDE Videos for Council of Councils
 
-Thanks to everyone who submitted (draft) video demonstrations of CFDE technical products in advance of the Council of Councils meeting! Most of the videos can be viewed on a single webpage at https://nih-cfde.github.io/2022-CoC-Videos/ Please watch the videos and provide your feedback [here](https://docs.google.com/document/d/1Azttan73vUiia8rv8M0tkyE_SAGD4kdfoqhQN5HOB9Y/edit#).
+Thanks to everyone who submitted (draft) video demonstrations of CFDE technical products in advance of the Council of Councils meeting! Most of the videos can be viewed on a single webpage at https://nih-cfde.github.io/2022-CoC-Videos/. Please watch the videos and provide your feedback [here](https://docs.google.com/document/d/1Azttan73vUiia8rv8M0tkyE_SAGD4kdfoqhQN5HOB9Y/edit#).
 
 ## Content Generation Sprints
 
