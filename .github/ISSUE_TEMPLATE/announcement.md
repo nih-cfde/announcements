@@ -1,6 +1,6 @@
 ---
 name: Weekly Announcments
-description: "Open and issue for collecting this week's announcments"
+description: "Open an issue for collecting this week's announcements"
 title: "CFDE Announcements MM-DD-YYYY"
 labels: ["Announcements"]
 assignees:
@@ -10,7 +10,7 @@ assignees:
 To share your announcement:
 
 1. Add a comment containing your interesting links and announcements.
-2. Specify the heading your post belongs (or add your own):
+2. Specify the heading where your post belongs (or add your own):
 
 - Critical Announcements
 - Events
