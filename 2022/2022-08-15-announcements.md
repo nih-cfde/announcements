@@ -10,7 +10,7 @@ Thanks to everyone who submitted (draft) video demonstrations of CFDE technical 
 
 ## Content Generation Sprints
 
-The second Content Generation Sprints concluded last week. The purpose of the sprints was to produce annotations for genes, anatomy terms, compounds, and diseases in the CFDE Search Portal. The product of our first sprint can be viewed at [https://github.com/nih-cfde/update-content-registry](https://github.com/nih-cfde/update-content-registry). Please join the #content-generation-sprint slack channel to participate. 
+The second Content Generation Sprints concluded last week. The purpose of the sprints was to produce annotations for genes, anatomy terms, compounds, and diseases in the CFDE Search Portal. The product of our first sprint can be viewed at [https://github.com/nih-cfde/update-content-registry](https://github.com/nih-cfde/update-content-registry) and [https://github.com/nih-cfde/update-content-registry](https://github.com/nih-cfde/update-content-registry). Please join the #content-generation-sprint slack channel to participate. 
 
 ## GTEx/HuBMAP Explorer User Interface
 
