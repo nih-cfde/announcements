@@ -8,14 +8,6 @@ If you are involved with one of the 6 partnership projects or the 2 workspace pi
 
 Thanks to everyone who submitted (draft) video demonstrations of CFDE technical products in advance of the Council of Councils meeting! Most of the videos can be viewed on a single webpage at https://nih-cfde.github.io/2022-CoC-Videos/. Please watch the videos and provide your feedback [here](https://docs.google.com/document/d/1Azttan73vUiia8rv8M0tkyE_SAGD4kdfoqhQN5HOB9Y/edit#).
 
-## Content Generation Sprints
-
-The second Content Generation Sprint has concluded. The purpose of the sprints was to produce annotations for genes, anatomy terms, compounds, and diseases in the CFDE Search Portal. The product of our first sprint can be viewed at [https://github.com/nih-cfde/update-content-registry](https://github.com/nih-cfde/update-content-registry). Please join the #content-generation-sprint slack channel to participate. 
-
-## GTEx/HuBMAP Explorer User Interface
-
-**Feedback Sought on the Explorer User Interface for Accessing Integrated GTEx/HuBMAP Data .** The GTEx and HuBMAP teams have mapped 16 GTEx tissue locations to the HuBMAP Common Coordinate Framework (CCF). These 16 three-dimensional tissue block locations can be explored via the HuBMAP Exploration User Interface that has been integrated into the GTEx Portal. The GTEx and HuBMAP teams have created this brief survey to get your feedback on this data integration, and what more you would like to see. Please take 5 min to provide your input [via this short survey](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLScHpo2PLacAC2CmGdQ9XUEDNnfd6o9WyqUEv9SjMr80TyyqiQ%2Fviewform&data=05%7C01%7Cchristy.kano%40nih.gov%7C59dd80cb3521498d173b08da6a8437c2%7C14b77578977342d58507251ca2dc2b06%7C0%7C0%7C637939413350851735%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=p9CGx7yq1qwj2jA34NHBf%2B5pYjvtX%2F0G%2F79WZWmSfjQ%3D&reserved=0).
-
 ## NIH Request For Information
 The [NIH Common Fund](https://commonfund.nih.gov/) is soliciting ideas for potential new scientific programs that may be supported in fiscal year 2025 or beyond. Anyone can submit an idea in response to this  [Request for Information](https://gcc02.safelinks.protection.outlook.com/?url=http%3A%2F%2Fgo.usa.gov%2FxSkzc&data=05%7C01%7Cwendy.knosp%40nih.gov%7C7355c3b172e74aea00ea08da6bfed99a%7C14b77578977342d58507251ca2dc2b06%7C0%7C0%7C637941040969607767%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=EPRQ3DJYeRiIdq%2FkP75mGVj0EgPZZDqBJ7NWrbO%2BWdE%3D&reserved=0)  that was recently published. 
 
