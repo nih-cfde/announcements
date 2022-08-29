@@ -24,6 +24,17 @@ https://app.nih-cfde.org/chaise/record/#1/CFDE:gene/id=ENSG00000000003
 - Integration of genes with Metabolomics and LINCS on a gene page:
 https://app.nih-cfde.org/chaise/record/#1/CFDE:gene/id=ENSG00000000419
 
+## Upcoming Data Submission Deadline for CFDE Portal
+The next data submission deadline for the CFDE Portal will be **Friday, September 16**. All groups who would like to update their data must submit and approve it by this deadline.
+
+If you would not like to update or submit new data, no action is required on your part. Previously submitted data will be included in this data release.
+
+The latest master JSON schema: [https://osf.io/c63aw/](https://osf.io/c63aw/)
+The submission script and prep tables: [https://osf.io/bq6k9/](https://osf.io/bq6k9/)
+Informational wiki: [https://github.com/nih-cfde/published-documentation/wiki/C2M2-Table-Summary](https://github.com/nih-cfde/published-documentation/wiki/C2M2-Table-Summary)
+Please contact the help desk with any questions at: [support@cfde.atlassian.net](mailto:support@cfde.atlassian.net)
+
+
 ## CFDE Videos for Council of Councils
 Thanks to everyone who submitted (draft) video demonstrations of CFDE technical products in advance of the Council of Councils meeting! Most of the videos can be viewed on a single webpage at https://nih-cfde.github.io/2022-CoC-Videos/. Please watch the videos and provide your feedback [here](https://docs.google.com/document/d/1Azttan73vUiia8rv8M0tkyE_SAGD4kdfoqhQN5HOB9Y/edit#).
 
