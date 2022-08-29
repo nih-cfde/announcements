@@ -29,9 +29,10 @@ The next data submission deadline for the CFDE Portal will be **Friday, Septembe
 
 If you would not like to update or submit new data, no action is required on your part. Previously submitted data will be included in this data release.
 
-The latest master JSON schema: [https://osf.io/c63aw/](https://osf.io/c63aw/)
-The submission script and prep tables: [https://osf.io/bq6k9/](https://osf.io/bq6k9/)
-Informational wiki: [https://github.com/nih-cfde/published-documentation/wiki/C2M2-Table-Summary](https://github.com/nih-cfde/published-documentation/wiki/C2M2-Table-Summary)
++ The latest master JSON schema: [https://osf.io/c63aw/](https://osf.io/c63aw/)
++ The submission script and prep tables: [https://osf.io/bq6k9/](https://osf.io/bq6k9/)
++ Informational wiki: [https://github.com/nih-cfde/published-documentation/wiki/C2M2-Table-Summary](https://github.com/nih-cfde/published-documentation/wiki/C2M2-Table-Summary)
+
 Please contact the help desk with any questions at: [support@cfde.atlassian.net](mailto:support@cfde.atlassian.net)
 
 
