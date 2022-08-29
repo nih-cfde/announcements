@@ -24,6 +24,8 @@ https://app.nih-cfde.org/chaise/record/#1/CFDE:gene/id=ENSG00000000003
 - Integration of genes with Metabolomics and LINCS on a gene page:
 https://app.nih-cfde.org/chaise/record/#1/CFDE:gene/id=ENSG00000000419
 
+View the release notes for more information about the workflows and contributors at https://github.com/nih-cfde/update-content-registry/releases/tag/2022.08.
+
 ## Upcoming Data Submission Deadline for CFDE Portal
 The next data submission deadline for the CFDE Portal will be **Friday, September 16**. All groups who would like to update their data must submit and approve it by this deadline.
 
