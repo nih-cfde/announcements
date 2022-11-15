@@ -8,6 +8,10 @@ The next meeting will take place on **Tuesday, December 6th, at 2 pm ET/ 11 am P
 
 The [CFDE November Meeting](https://nih-cfde.github.io/2022-nov-meeting/) took place in Washington, DC on November 8-9, 2022. Our second in-person meeting of 2022 featured speakers sharing partnership progress and new developments for the future of the CFDE. The meeting website includes links to the presentations, notes, group spreadsheets, slides, and video recordings. If you have any issues accessing documents, please email the [helpdesk](mailto:support@cfde.atlassian.net).
 
+## SPARC Helpdesk
+
+[SPARC](https://sparc.science/) has set up a help desk to contact them with any CFDE + SPARC related issues. You can reach them at cfde@sparc.science.
+
 ## New Onboarding Procedure
 
 We are transitioning to a new onboarding/offboarding system for the CFDE. New members will need a member sponsor to  log in to the [CFDE Website](https://www.nih-cfde.org/) and fill out the [onboarding form](https://www.nih-cfde.org/onboarding-form/). If you need assistance, please email the [helpdesk](mailto:support@cfde.atlassian.net). 
