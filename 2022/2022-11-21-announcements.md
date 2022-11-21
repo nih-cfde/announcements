@@ -13,10 +13,10 @@ Knowledge Graph | Dec 21st | 12pm PT / 3pm ET | [Knowledge Graph WG](https://doc
 Ontology | Nov 30th  | 8am PT / 11am ET | [Ontology WG](https://docs.google.com/document/d/1VoHHBeWfol6XNJa3kzOnOFuTaIrcLYbqKYQcOnj1oh4/edit?usp=sharing) |
 
 ## Welcome:
-**4DNucleome**: Will Ronchetti
-**HuBMAP**: Alan Simmons
-**IDG**: Andrea N. Lopez
-**MoTrPAC**:  Mihir Samdarshi, David Jimenez-Morales, Archana Raja
+**4DNucleome**: Will Ronchetti <br>
+**HuBMAP**: Alan Simmons <br>
+**IDG**: Andrea N. Lopez <br>
+**MoTrPAC**:  Mihir Samdarshi, David Jimenez-Morales, Archana Raja <br>
 **SPARC**: Troy Sincomb
 
 ## Goodbye
