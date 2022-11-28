@@ -1,5 +1,6 @@
 ---
 name: Weekly Announcments
+about: Template for creating weekly announcment issues
 description: "Open an issue for collecting this week's announcements"
 title: "CFDE Announcements MM-DD-YYYY"
 labels: ["Announcements"]
@@ -18,6 +19,7 @@ To share your announcement:
 - Resources
 - Tools
 - New Releases
+- CFDE Factoid
 - Welcome/Farewell
 
 3. Let us know if you would like your Announcements to be added to the Cross Pollination mailing list which includes Data Centers not onboarded with the CFDE
