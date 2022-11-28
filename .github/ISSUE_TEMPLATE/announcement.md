@@ -2,7 +2,7 @@
 name: Weekly Announcments
 about: Template for creating weekly announcment issues
 description: "Open an issue for collecting this week's announcements"
-title: "CFDE Announcements MM-DD-YYYY"
+title: "CFDE Announcements to Post MM-DD-YYYY"
 labels: ["Announcements"]
 assignees:
   - jeremywalter
