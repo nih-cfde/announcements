@@ -22,19 +22,19 @@ Pilot Projects Enhancing Utility and Usage of Common Fund Data Sets (R03 Clinica
 The goals of this funding opportunity announcement ([RFA-RM-23-003](https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-23-003.html)) are to 1) promote the use of Common Fund data sets by supporting pilot studies based on analyses across two or more Common Fund program data sets; 2) enhance the utility of existing Common Fund data sets by developing workflows, analytic and simulation tools which will enable simultaneous analysis of multiple Common Fund data sets; and 3) demonstrate the added-value of integrating multiple Common Fund data resources in addressing biomedical research questions.
 
 Eligible Common Fund Program Data Sets
-• 4D Nucleome (4DN)
-• [Extracellular RNA Communication (ExRNA)](https://exrna.org/)
-• [Gabriella First Kids First (KF)](https://kidsfirstdrc.org/)
-• [Genotype-Tissue Expression (GTEx)](https://www.gtexportal.org/home/)
-• Glycoscience (GL)
-• Human BioMolecular Atlas Program (HuBMAP)
-• [Illuminating the Druggable Genome (IDG)](https://druggablegenome.net/)
-• [Integrated Human Microbiome Project (iHMP)](https://hmpdacc.org/ihmp/)
-• [Knockout Mouse Phenotyping Program (KOMP2)](http://www.mousephenotype.org/)
-• [Library of Integrated Network-based Cellular Signatures (LINCS)](http://lincsproject.org/)
-• [Metabolomics Workbench](https://www.metabolomicsworkbench.org/)
-• [Molecular Transducers of Physical Activity in Humans (MoTrPAC)](https://motrpac-data.org/data-access)
-• [Stimulating Peripheral Activity to Relieve Conditions (SPARC)](https://sparc.science/)
+- 4D Nucleome (4DN)
+- [Extracellular RNA Communication (ExRNA)](https://exrna.org/)
+- [Gabriella First Kids First (KF)](https://kidsfirstdrc.org/)
+- [Genotype-Tissue Expression (GTEx)](https://www.gtexportal.org/home/)
+- Glycoscience (GL)
+- Human BioMolecular Atlas Program (HuBMAP)
+- [Illuminating the Druggable Genome (IDG)](https://druggablegenome.net/)
+- [Integrated Human Microbiome Project (iHMP)](https://hmpdacc.org/ihmp/)
+- [Knockout Mouse Phenotyping Program (KOMP2)](http://www.mousephenotype.org/)
+- [Library of Integrated Network-based Cellular Signatures (LINCS)](http://lincsproject.org/)
+- [Metabolomics Workbench](https://www.metabolomicsworkbench.org/)
+- [Molecular Transducers of Physical Activity in Humans (MoTrPAC)](https://motrpac-data.org/data-access)
+- [Stimulating Peripheral Activity to Relieve Conditions (SPARC)](https://sparc.science/)
 
 Applications are due **February 3, 2023, by 5:00 pm** local time of the applicant organization.
 
