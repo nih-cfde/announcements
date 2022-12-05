@@ -1,4 +1,4 @@
-# CFDE Announcements -- DRAFT DRAFT DRAFT
+# CFDE Announcements
 
 ## Cross-Pollination Meeting
 The next meeting is TOMORROW, **Tuesday, December 6th, at 2 pm ET/ 11 am PT**.  The [meeting agenda](https://docs.google.com/document/d/1fxySKeOsQrHs8OyXY0z-Jv5KUbOrpzE7AcmziB9W8so/edit?usp=sharing) includes three CFDE Partnership Talks on the Gene-Centric Dashboard, Toxicology, and CLOVoc (Clinical Observations and Vocabularies). Regular Cross-Pollination events take place on the first Tuesday of every month. View the [Cross-Pollination Schedule](https://docs.google.com/spreadsheets/d/1hQAeOLkivUZZnwZ_KxfGw3neezMaWbrPk9nnFiKfQGA/edit?usp=sharing) for more details. Email [support@cfde.atlassian.net](mailto:support@cfde.atlassian.net) if you would like to present.
