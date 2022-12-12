@@ -1,4 +1,4 @@
-# CFDE Announcements -- DRAFT DRAFT DRAFT
+# CFDE Announcements
 
 ## Cross-Pollination Meeting
 The next meeting is **Tuesday, January 3rd, at 2 pm ET/ 11 am PT**.  The [meeting agenda](https://docs.google.com/document/d/1JNVYnajGEsZsgXsL0QLo-vl53xahmKLdONd6zwp_RtI/edit?usp=sharing) includes and R03 presentation and an introduction to the HEAL Initiative. Regular Cross-Pollination events take place on the first Tuesday of every month. View the [Cross-Pollination Schedule](https://docs.google.com/spreadsheets/d/1hQAeOLkivUZZnwZ_KxfGw3neezMaWbrPk9nnFiKfQGA/edit?usp=sharing) for more details. Email [support@cfde.atlassian.net](mailto:support@cfde.atlassian.net) if you would like to present.
