@@ -26,7 +26,7 @@ Eligible Common Fund Program Data Sets
 - [Extracellular RNA Communication (ExRNA)](https://exrna.org/)
 - [Gabriella First Kids First (KF)](https://kidsfirstdrc.org/)
 - [Genotype-Tissue Expression (GTEx)](https://www.gtexportal.org/home/)
-- Glycoscience (GL)
+- [Glycoscience (GL)](https://www.glygen.org/)
 - Human BioMolecular Atlas Program (HuBMAP)
 - [Illuminating the Druggable Genome (IDG)](https://druggablegenome.net/)
 - [Integrated Human Microbiome Project (iHMP)](https://hmpdacc.org/ihmp/)
