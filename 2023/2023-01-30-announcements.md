@@ -5,7 +5,7 @@ The next meeting is **Tuesday, February 7th, at 2 pm ET/ 11 am PT**.   Regular C
 
 ## RFC Open for Comment
 
-The [Establishing API standards and API interoperability across Common Fund DCCs towards the development of a Playbook](https://docs.google.com/document/d/1_14rn_IB3C0lbxXXjNtvhrLn81cNNnQD/edit) RFC is now available for comment by the community until **February 3rd**.
+The [Establishing API standards and API interoperability across Common Fund DCCs towards the development of a Playbook](https://docs.google.com/document/d/1_14rn_IB3C0lbxXXjNtvhrLn81cNNnQD/edit) RFC is now available for comment by the community until **March 3rd**.
 
 RFC stands for “Requests for Comments”. These are proposals being made by members of the CFDE to suggest that the CFDE community as a whole adopt the suggested new best practice. Everyone in the community is invited to respond to these proposals by leaving comments, critiques, and support at the links above. Comments are open for one month at which point the documents will be reviewed. If there are no substantial objections to the RFC in that time, it will be adopted as a CFDE Best Practice. You can read more about our RFC process here.
 
