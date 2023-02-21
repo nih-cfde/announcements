@@ -16,6 +16,7 @@ RFC stands for “Requests for Comments”. These are proposals being made by me
 
 ## SenNet Internship
 Sixteen SenNet labs are accepting interns in Summer 2023: https://sennetconsortium.org/internship/
+
 To apply, fill out the [application form](https://sennetconsortium.org/cusp-form/) along with a personal statement and transcript. As part of the application process, students must also have 2 letters of recommendation sent to [help@sennetconsortium.org ](mailto:help@sennetconsortium.org). All materials are due by **March 1, 2023**.
 
 Questions? Email [help@sennetconsortium.org](mailto:help@sennetconsortium.org)
