@@ -1,7 +1,10 @@
 # CFDE Announcements
 
 ## Cross-Pollination Meeting
-The next meeting is **TOMORROW, TUESDAY, June 6th, at 2 pm ET/ 11 am PT**.  We will have [presentations](https://docs.google.com/document/d/1FeU8vuAyS7LZ_3t3-hPotR0dF-aG01t1MuGvgQatxMo/edit?usp=sharing) from R03s. Regular Cross-Pollination events take place on the first Tuesday of every month. View the [Cross-Pollination Schedule](https://docs.google.com/spreadsheets/d/1hQAeOLkivUZZnwZ_KxfGw3neezMaWbrPk9nnFiKfQGA/edit?usp=sharing) for more details. Email [support@cfde.atlassian.net](mailto:support@cfde.atlassian.net) if you would like to present.
+The next meeting is **Tuesday, June 6th, at 2 pm ET/ 11 am PT**.  We will have [presentations](https://docs.google.com/document/d/1FeU8vuAyS7LZ_3t3-hPotR0dF-aG01t1MuGvgQatxMo/edit?usp=sharing) from R03s. Regular Cross-Pollination events take place on the first Tuesday of every month. View the [Cross-Pollination Schedule](https://docs.google.com/spreadsheets/d/1hQAeOLkivUZZnwZ_KxfGw3neezMaWbrPk9nnFiKfQGA/edit?usp=sharing) for more details. Email [support@cfde.atlassian.net](mailto:support@cfde.atlassian.net) if you would like to present.
+
+## C2M2 Submissions
+The submission window for June 2023 is now open. The deadline for submissions is **June 15th**. All groups who would like to update their data should submit and approve it by this deadline.  If you do not intend to update or submit new data, no action is required on your part. Previously submitted data will be included in this data release.
 
 ## Meeting Updates
 As we transition some of our services to new accounts there should be a flurry of new meeting invitations (especially for monthly and bi-weekly CFDE-DCC meetings). Please keep a lookout for updated invites in your e-mail feed to make sure you have the most up-to-date invitations on your calendar. Remember also that you can always rely on meeting agendas for links and scheduling, or contact the helpdesk (support@cfde.atlassian.net) if any issues arise.
