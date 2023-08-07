@@ -5,6 +5,7 @@ The next meeting is **Tuesday, September 4th, at 2 pm ET/ 11 am PT** with presen
 
 ## Virtual Symposium - Summer Undergraduate Research Training Program
 You are invited to join a virtual symposium on **August 10th at 10 AM ET**. Trainees in the Summer Undergraduate Research Training Program in Biomedical Big Data Science at Ma'ayan Lab will present their research projects. You can register for the webinar at: https://mssm.zoom.us/webinar/register/WN_Uelxto65QtCklm7Ock9BUQ
+
 <img src = "https://github.com/nih-cfde/announcements/assets/40613731/3eb2a3d9-9672-42c9-8ccc-a0bca113b897" width="400">
 
 ## CFDE Funding Opportunity
