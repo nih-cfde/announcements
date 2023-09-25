@@ -34,8 +34,8 @@ Learn more on the [Common Fund Data Ecosystem](https://commonfund.nih.gov/dataec
 You can find a list of CFDE WGs and linked agendas on the [Cross-Pollination Meeting Schedule](https://docs.google.com/spreadsheets/d/1hQAeOLkivUZZnwZ_KxfGw3neezMaWbrPk9nnFiKfQGA/edit?usp=sharing). Currently scheduled working group meetings are as follow: 
 | Working Group | Date | Time | Agenda |
 | ----------------- | ----- | ----- | --------- | 
-Knowledge Graph |September 19th | 12pm PT / 3pm ET | [Knowledge Graph WG](https://docs.google.com/document/d/1WvpkLxWPW0XxZsam6jEJeEUQr2sQ0EWC/edit?usp=sharing&ouid=111367545760360703840&rtpof=true&sd=true)
-Ontology | September 20th  | 8am PT / 11am ET | [Ontology WG](https://docs.google.com/document/d/1VoHHBeWfol6XNJa3kzOnOFuTaIrcLYbqKYQcOnj1oh4/edit?usp=sharing)
+Knowledge Graph |November 21st | 12pm PT / 3pm ET | [Knowledge Graph WG](https://docs.google.com/document/d/1WvpkLxWPW0XxZsam6jEJeEUQr2sQ0EWC/edit?usp=sharing&ouid=111367545760360703840&rtpof=true&sd=true)
+Ontology | November 15th  | 8am PT / 11am ET | [Ontology WG](https://docs.google.com/document/d/1VoHHBeWfol6XNJa3kzOnOFuTaIrcLYbqKYQcOnj1oh4/edit?usp=sharing)
 
 ## C2M2 Submission Schedule
 | Submission Deadline | Portal Update |
