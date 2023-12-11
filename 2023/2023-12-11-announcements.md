@@ -3,6 +3,13 @@
 ## Cross-Pollination Meeting
 There will be no January Cross-Pollination meeting. The [next meeting](https://docs.google.com/document/d/1iHMcU895gDwjohK6rNlcK4Gzc6p91bVepN2xsjFps_I/edit?usp=sharing) will take place on **February 6th, 2024, at 2 pm ET/ 11 am PT**. View the [Cross-Pollination Schedule](https://docs.google.com/spreadsheets/d/1hQAeOLkivUZZnwZ_KxfGw3neezMaWbrPk9nnFiKfQGA/edit?usp=sharing) for more details. Email [support@cfde.atlassian.net](mailto:support@cfde.atlassian.net) if you would like to present.
 
+## 4DN Hackathon
+The 4D Nucleome program is accepting applications for the 2024 4DN Hackathon, which will be hosted at the University of Washington in Seattle, Washington from **March 18-21st, 2024**. The hackathon is open to all students, faculty, and staff from the general scientific community – no coding experience is required. This opportunity offers participants the chance to explore genome organization, build something novel, learn from peers, and get familiar with the 4DN program’s data and research! 40-50 applicants will be selected, and travel and accommodations will be completely supported.
+
+Find more details and the application here: [hack4dnucleome.github.io](https://hack4dnucleome.github.io/)
+
+The priority deadline for a better chance at a preferred project is **December 31st, 2023**, and the final deadline to apply **January 20th, 2024**. Please direct all questions to: [hack4dnucleome@gmail.com](mailto:hack4dnucleome@gmail.com).
+
 ## SPARC Webinar: Tools for Integrative Physiological Modeling
 A multi-institution team of dedicated scientists work to create the SPARC Portal, but how well do you know the team leaders? The Principal Investigators (PIs) play a pivotal role in shaping SPARC's vision to bridge the body and the brain. They spur the creation of an environment where data takes center stage and foster a culture of sharing and reuse.
 
