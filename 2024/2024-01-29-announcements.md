@@ -67,6 +67,4 @@ You can contribute to the next announcements by commenting on the open announcem
 
 Remember you can always contact the CFDE Helpdesk for any questions or concerns about anything CFDE related (including the content of this newsletter!)
 
-Thank you all for your efforts and have a great week!The [SPARC Data and Resource Center (DRC)](https://science.us2.list-manage.com/track/click?u=e60c48f231a30b544eed731ea&id=b9fd0b9d77&e=82138c187c)hosts regular [open office ](https://science.us2.list-manage.com/track/click?u=e60c48f231a30b544eed731ea&id=5dbce0b9ac&e=82138c187c)[hours](https://science.us2.list-manage.com/track/click?u=e60c48f231a30b544eed731ea&id=b3db04cd2a&e=82138c187c)to support the scientific community. Each session is hosted by experts with a focus on a specific SPARC resource; however, we welcome all attendees to any open office hours. We will strive to answer your questions and point you to the appropriate resource.  
-
-[View Topic Schedule & Get Meeting Link](https://science.us2.list-manage.com/track/click?u=e60c48f231a30b544eed731ea&id=e4e97fde14&e=82138c187c)
+Thank you all for your efforts and have a great week!
