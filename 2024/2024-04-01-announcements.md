@@ -3,6 +3,12 @@
 ## Cross-Pollination Meeting - Paused
 No further Cross-Pollination Meetings are planned at this time. All future meetings have been canceled. You may wish to check your calendar to make sure it has updated, and manually cancel if needed. Thank you all for your contributions and participation in this long running series of events. More Cross-Pollination opportunities will be coming soon!
 
+## Cloud Workspace Pilot on CAVATICA platform
+Many CFDE Members joined us for our Cloud Workspace Pilot breakout session at the All-Hands Meeting in Bethesda. Please check out details about the CWP session along with links to the posters we presented at https://kids-first.github.io/cloud-workspace-partnership-pilot/ and find more information at the CWP website: https://github.com/kids-first/cloud-workspace-partnership-pilot
+
+We would be happy to answer any questions about how to get started on CAVATICA or how to apply for the $1,000 (leading to $5000) in funding for the CWP. Please also let us know how we can improve for the next workshop. Please reach out to the CWP team by email or on CFDE slack for assistance
+[Surya Saha](mailto:surya.saha@velsera.com), [Eric Wenger](mailto:wengere@chop.edu), [Sangeeta Shukla](mailto:shuklas1@chop.edu),[Eric Tobin](mailto:eric.tobin@velsera.com)
+
 ## SPARC News
 SPARC will be in attendance at the [11th Annual Minnesota Neuromodulation Symposium](https://science.us2.list-manage.com/track/click?u=e60c48f231a30b544eed731ea&id=9983564b8a&e=82138c187c) on **April 10-12, 2024** in Minneapolis, MN and we’re hoping to see you there. Organized by the [Institute for Engineering in Medicine (IEM)](https://science.us2.list-manage.com/track/click?u=e60c48f231a30b544eed731ea&id=8a77340e65&e=82138c187c) and [MnDRIVE Brain Conditions](https://science.us2.list-manage.com/track/click?u=e60c48f231a30b544eed731ea&id=439dea9cb2&e=82138c187c), this symposium is aimed at bringing together basic scientists, engineers, clinicians, industrial practitioners and entrepreneurs to discuss challenges and opportunities in neuromodulation. The symposium will consist of plenary presentations by leaders in academia, industry and government, and poster presentations to exchange ideas in this exciting field. The symposium, which is part of IEM Innovation Week, will be held immediately following the Design of Medical Devices Conference.
 
